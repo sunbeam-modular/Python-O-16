@@ -1,0 +1,904 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/25.0.2 Chrome/128.0.6613.186 Electron/32.2.5 Safari/537.36" version="25.0.2" pages="8">
+  <diagram name="Page-1" id="aMbfNttTmtUnUvFVvwXy">
+    <mxGraphModel dx="1242" dy="807" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="uA0FF3w_LZw-LQKYeXgx-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="uA0FF3w_LZw-LQKYeXgx-1" target="uA0FF3w_LZw-LQKYeXgx-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uA0FF3w_LZw-LQKYeXgx-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="uA0FF3w_LZw-LQKYeXgx-1" target="uA0FF3w_LZw-LQKYeXgx-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uA0FF3w_LZw-LQKYeXgx-1" value="code reuse" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fontSize=16;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="260" y="80" width="150" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="uA0FF3w_LZw-LQKYeXgx-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="uA0FF3w_LZw-LQKYeXgx-2" target="uA0FF3w_LZw-LQKYeXgx-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uA0FF3w_LZw-LQKYeXgx-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="uA0FF3w_LZw-LQKYeXgx-2" target="uA0FF3w_LZw-LQKYeXgx-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uA0FF3w_LZw-LQKYeXgx-2" value="association&lt;div&gt;has-a&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fontSize=16;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="110" y="180" width="150" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="uA0FF3w_LZw-LQKYeXgx-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="uA0FF3w_LZw-LQKYeXgx-3" target="uA0FF3w_LZw-LQKYeXgx-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uA0FF3w_LZw-LQKYeXgx-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="uA0FF3w_LZw-LQKYeXgx-3" target="uA0FF3w_LZw-LQKYeXgx-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uA0FF3w_LZw-LQKYeXgx-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="uA0FF3w_LZw-LQKYeXgx-3" target="uA0FF3w_LZw-LQKYeXgx-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uA0FF3w_LZw-LQKYeXgx-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="uA0FF3w_LZw-LQKYeXgx-3" target="uA0FF3w_LZw-LQKYeXgx-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uA0FF3w_LZw-LQKYeXgx-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="uA0FF3w_LZw-LQKYeXgx-3" target="uA0FF3w_LZw-LQKYeXgx-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uA0FF3w_LZw-LQKYeXgx-3" value="inheritance&lt;div&gt;is-a&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fontSize=16;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="410" y="180" width="151" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="uA0FF3w_LZw-LQKYeXgx-6" value="composition" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fontSize=16;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="210" y="290" width="150" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="uA0FF3w_LZw-LQKYeXgx-7" value="aggregation" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fontSize=16;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="210" y="360" width="150" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="uA0FF3w_LZw-LQKYeXgx-10" value="single" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fontSize=16;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="530" y="290" width="150" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="uA0FF3w_LZw-LQKYeXgx-11" value="multi-level" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fontSize=16;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="530" y="360" width="150" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="uA0FF3w_LZw-LQKYeXgx-12" value="mulitple" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fontSize=16;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="530" y="430" width="150" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="uA0FF3w_LZw-LQKYeXgx-13" value="hiearchical" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fontSize=16;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="530" y="500" width="150" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="uA0FF3w_LZw-LQKYeXgx-14" value="hybrid" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fontSize=16;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="530" y="570" width="150" height="50" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="A9W_LguMrA4eYf2O6fAS" name="aggregation">
+    <mxGraphModel dx="1242" dy="807" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="prOX6sjc2b2Lblc4_ECh-1" value="&lt;div style=&quot;color: #000000;background-color: #ffffff;font-family: Menlo, Monaco, &#39;Courier New&#39;, monospace;font-weight: normal;font-size: 25px;line-height: 38px;white-space: pre;&quot;&gt;&lt;div&gt;&lt;span style=&quot;color: #0000ff;&quot;&gt;class&lt;/span&gt;&lt;span style=&quot;color: #000000;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;color: #267f99;&quot;&gt;Laptop&lt;/span&gt;&lt;span style=&quot;color: #000000;&quot;&gt;:&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: #000000;&quot;&gt;    &lt;/span&gt;&lt;span style=&quot;color: #0000ff;&quot;&gt;def&lt;/span&gt;&lt;span style=&quot;color: #000000;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;color: #795e26;&quot;&gt;__init__&lt;/span&gt;&lt;span style=&quot;color: #000000;&quot;&gt;(&lt;/span&gt;&lt;span style=&quot;color: #001080;&quot;&gt;self&lt;/span&gt;&lt;span style=&quot;color: #000000;&quot;&gt;, &lt;/span&gt;&lt;span style=&quot;color: #001080;&quot;&gt;brand&lt;/span&gt;&lt;span style=&quot;color: #000000;&quot;&gt;, &lt;/span&gt;&lt;span style=&quot;color: #001080;&quot;&gt;ram&lt;/span&gt;&lt;span style=&quot;color: #000000;&quot;&gt;, &lt;/span&gt;&lt;span style=&quot;color: #001080;&quot;&gt;cpu&lt;/span&gt;&lt;span style=&quot;color: #000000;&quot;&gt;):&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: #000000;&quot;&gt;        &lt;/span&gt;&lt;span style=&quot;color: #001080;&quot;&gt;self&lt;/span&gt;&lt;span style=&quot;color: #000000;&quot;&gt;.&lt;/span&gt;&lt;span style=&quot;color: #001080;&quot;&gt;brand&lt;/span&gt;&lt;span style=&quot;color: #000000;&quot;&gt; = &lt;/span&gt;&lt;span style=&quot;color: #001080;&quot;&gt;brand&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: #000000;&quot;&gt;        &lt;/span&gt;&lt;span style=&quot;color: #001080;&quot;&gt;self&lt;/span&gt;&lt;span style=&quot;color: #000000;&quot;&gt;.&lt;/span&gt;&lt;span style=&quot;color: #001080;&quot;&gt;ram&lt;/span&gt;&lt;span style=&quot;color: #000000;&quot;&gt; = &lt;/span&gt;&lt;span style=&quot;color: #001080;&quot;&gt;ram&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: #000000;&quot;&gt;        &lt;/span&gt;&lt;span style=&quot;color: #001080;&quot;&gt;self&lt;/span&gt;&lt;span style=&quot;color: #000000;&quot;&gt;.&lt;/span&gt;&lt;span style=&quot;color: #001080;&quot;&gt;cpu&lt;/span&gt;&lt;span style=&quot;color: #000000;&quot;&gt; = &lt;/span&gt;&lt;span style=&quot;color: #001080;&quot;&gt;cpu&lt;/span&gt;&lt;/div&gt;&lt;br&gt;&lt;div&gt;&lt;span style=&quot;color: #000000;&quot;&gt;    &lt;/span&gt;&lt;span style=&quot;color: #0000ff;&quot;&gt;def&lt;/span&gt;&lt;span style=&quot;color: #000000;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;color: #795e26;&quot;&gt;diplay&lt;/span&gt;&lt;span style=&quot;color: #000000;&quot;&gt;(&lt;/span&gt;&lt;span style=&quot;color: #001080;&quot;&gt;self&lt;/span&gt;&lt;span style=&quot;color: #000000;&quot;&gt;):&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: #000000;&quot;&gt;        &lt;/span&gt;&lt;span style=&quot;color: #795e26;&quot;&gt;print&lt;/span&gt;&lt;span style=&quot;color: #000000;&quot;&gt;(&lt;/span&gt;&lt;span style=&quot;color: #0000ff;&quot;&gt;f&lt;/span&gt;&lt;span style=&quot;color: #a31515;&quot;&gt;&quot;Laptop [brand: &lt;/span&gt;&lt;span style=&quot;color: #0000ff;&quot;&gt;{&lt;/span&gt;&lt;span style=&quot;color: #001080;&quot;&gt;self&lt;/span&gt;&lt;span style=&quot;color: #000000;&quot;&gt;.&lt;/span&gt;&lt;span style=&quot;color: #001080;&quot;&gt;brand&lt;/span&gt;&lt;span style=&quot;color: #0000ff;&quot;&gt;:&amp;lt;15}&lt;/span&gt;&lt;span style=&quot;color: #a31515;&quot;&gt;, ram: &lt;/span&gt;&lt;span style=&quot;color: #0000ff;&quot;&gt;{&lt;/span&gt;&lt;span style=&quot;color: #001080;&quot;&gt;self&lt;/span&gt;&lt;span style=&quot;color: #000000;&quot;&gt;.&lt;/span&gt;&lt;span style=&quot;color: #001080;&quot;&gt;ram&lt;/span&gt;&lt;span style=&quot;color: #0000ff;&quot;&gt;:&amp;lt;6}&lt;/span&gt;&lt;span style=&quot;color: #a31515;&quot;&gt;, cpu: &lt;/span&gt;&lt;span style=&quot;color: #0000ff;&quot;&gt;{&lt;/span&gt;&lt;span style=&quot;color: #001080;&quot;&gt;self&lt;/span&gt;&lt;span style=&quot;color: #000000;&quot;&gt;.&lt;/span&gt;&lt;span style=&quot;color: #001080;&quot;&gt;cpu&lt;/span&gt;&lt;span style=&quot;color: #0000ff;&quot;&gt;:&amp;lt;15}&lt;/span&gt;&lt;span style=&quot;color: #a31515;&quot;&gt;]&quot;&lt;/span&gt;&lt;span style=&quot;color: #000000;&quot;&gt;)&lt;/span&gt;&lt;/div&gt;&lt;br&gt;&lt;br&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="10" y="40" width="560" height="400" as="geometry" />
+        </mxCell>
+        <mxCell id="prOX6sjc2b2Lblc4_ECh-2" value="&lt;div style=&quot;color: #000000;background-color: #ffffff;font-family: Menlo, Monaco, &#39;Courier New&#39;, monospace;font-weight: normal;font-size: 25px;line-height: 38px;white-space: pre;&quot;&gt;&lt;div&gt;&lt;span style=&quot;color: #0000ff;&quot;&gt;class&lt;/span&gt;&lt;span style=&quot;color: #000000;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;color: #267f99;&quot;&gt;Employee&lt;/span&gt;&lt;span style=&quot;color: #000000;&quot;&gt;:&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: #000000;&quot;&gt;    &lt;/span&gt;&lt;span style=&quot;color: #0000ff;&quot;&gt;def&lt;/span&gt;&lt;span style=&quot;color: #000000;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;color: #795e26;&quot;&gt;__init__&lt;/span&gt;&lt;span style=&quot;color: #000000;&quot;&gt;(&lt;/span&gt;&lt;span style=&quot;color: #001080;&quot;&gt;self&lt;/span&gt;&lt;span style=&quot;color: #000000;&quot;&gt;, &lt;/span&gt;&lt;span style=&quot;color: #001080;&quot;&gt;employee_id&lt;/span&gt;&lt;span style=&quot;color: #000000;&quot;&gt;, &lt;/span&gt;&lt;span style=&quot;color: #001080;&quot;&gt;name&lt;/span&gt;&lt;span style=&quot;color: #000000;&quot;&gt;, &lt;/span&gt;&lt;span style=&quot;color: #001080;&quot;&gt;salary&lt;/span&gt;&lt;span style=&quot;color: #000000;&quot;&gt;, &lt;/span&gt;&lt;span style=&quot;color: #001080;&quot;&gt;laptop&lt;/span&gt;&lt;span style=&quot;color: #000000;&quot;&gt;):&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: #000000;&quot;&gt;        &lt;/span&gt;&lt;span style=&quot;color: #001080;&quot;&gt;self&lt;/span&gt;&lt;span style=&quot;color: #000000;&quot;&gt;.&lt;/span&gt;&lt;span style=&quot;color: #001080;&quot;&gt;id&lt;/span&gt;&lt;span style=&quot;color: #000000;&quot;&gt; = &lt;/span&gt;&lt;span style=&quot;color: #001080;&quot;&gt;employee_id&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: #000000;&quot;&gt;        &lt;/span&gt;&lt;span style=&quot;color: #001080;&quot;&gt;self&lt;/span&gt;&lt;span style=&quot;color: #000000;&quot;&gt;.&lt;/span&gt;&lt;span style=&quot;color: #001080;&quot;&gt;name&lt;/span&gt;&lt;span style=&quot;color: #000000;&quot;&gt; = &lt;/span&gt;&lt;span style=&quot;color: #001080;&quot;&gt;name&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: #000000;&quot;&gt;        &lt;/span&gt;&lt;span style=&quot;color: #001080;&quot;&gt;self&lt;/span&gt;&lt;span style=&quot;color: #000000;&quot;&gt;.&lt;/span&gt;&lt;span style=&quot;color: #001080;&quot;&gt;salary&lt;/span&gt;&lt;span style=&quot;color: #000000;&quot;&gt; = &lt;/span&gt;&lt;span style=&quot;color: #001080;&quot;&gt;salary&lt;/span&gt;&lt;/div&gt;&lt;br&gt;&lt;div&gt;&lt;span style=&quot;color: #000000;&quot;&gt;        &lt;/span&gt;&lt;span style=&quot;color: #008000;&quot;&gt;# employee has-a laptop&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: #000000;&quot;&gt;        &lt;/span&gt;&lt;span style=&quot;color: #001080;&quot;&gt;self&lt;/span&gt;&lt;span style=&quot;color: #000000;&quot;&gt;.&lt;/span&gt;&lt;span style=&quot;color: #001080;&quot;&gt;laptop&lt;/span&gt;&lt;span style=&quot;color: #000000;&quot;&gt; = &lt;/span&gt;&lt;span style=&quot;color: #001080;&quot;&gt;laptop&lt;/span&gt;&lt;/div&gt;&lt;br&gt;&lt;div&gt;&lt;span style=&quot;color: #000000;&quot;&gt;    &lt;/span&gt;&lt;span style=&quot;color: #0000ff;&quot;&gt;def&lt;/span&gt;&lt;span style=&quot;color: #000000;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;color: #795e26;&quot;&gt;display&lt;/span&gt;&lt;span style=&quot;color: #000000;&quot;&gt;(&lt;/span&gt;&lt;span style=&quot;color: #001080;&quot;&gt;self&lt;/span&gt;&lt;span style=&quot;color: #000000;&quot;&gt;):&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: #000000;&quot;&gt;        &lt;/span&gt;&lt;span style=&quot;color: #795e26;&quot;&gt;print&lt;/span&gt;&lt;span style=&quot;color: #000000;&quot;&gt;(&lt;/span&gt;&lt;span style=&quot;color: #0000ff;&quot;&gt;f&lt;/span&gt;&lt;span style=&quot;color: #a31515;&quot;&gt;&quot;id     = &lt;/span&gt;&lt;span style=&quot;color: #0000ff;&quot;&gt;{&lt;/span&gt;&lt;span style=&quot;color: #001080;&quot;&gt;self&lt;/span&gt;&lt;span style=&quot;color: #000000;&quot;&gt;.&lt;/span&gt;&lt;span style=&quot;color: #001080;&quot;&gt;id&lt;/span&gt;&lt;span style=&quot;color: #0000ff;&quot;&gt;}&lt;/span&gt;&lt;span style=&quot;color: #a31515;&quot;&gt;&quot;&lt;/span&gt;&lt;span style=&quot;color: #000000;&quot;&gt;)&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: #000000;&quot;&gt;        &lt;/span&gt;&lt;span style=&quot;color: #795e26;&quot;&gt;print&lt;/span&gt;&lt;span style=&quot;color: #000000;&quot;&gt;(&lt;/span&gt;&lt;span style=&quot;color: #0000ff;&quot;&gt;f&lt;/span&gt;&lt;span style=&quot;color: #a31515;&quot;&gt;&quot;name   = &lt;/span&gt;&lt;span style=&quot;color: #0000ff;&quot;&gt;{&lt;/span&gt;&lt;span style=&quot;color: #001080;&quot;&gt;self&lt;/span&gt;&lt;span style=&quot;color: #000000;&quot;&gt;.&lt;/span&gt;&lt;span style=&quot;color: #001080;&quot;&gt;name&lt;/span&gt;&lt;span style=&quot;color: #0000ff;&quot;&gt;}&lt;/span&gt;&lt;span style=&quot;color: #a31515;&quot;&gt;&quot;&lt;/span&gt;&lt;span style=&quot;color: #000000;&quot;&gt;)&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: #000000;&quot;&gt;        &lt;/span&gt;&lt;span style=&quot;color: #795e26;&quot;&gt;print&lt;/span&gt;&lt;span style=&quot;color: #000000;&quot;&gt;(&lt;/span&gt;&lt;span style=&quot;color: #0000ff;&quot;&gt;f&lt;/span&gt;&lt;span style=&quot;color: #a31515;&quot;&gt;&quot;salary = &lt;/span&gt;&lt;span style=&quot;color: #0000ff;&quot;&gt;{&lt;/span&gt;&lt;span style=&quot;color: #001080;&quot;&gt;self&lt;/span&gt;&lt;span style=&quot;color: #000000;&quot;&gt;.&lt;/span&gt;&lt;span style=&quot;color: #001080;&quot;&gt;salary&lt;/span&gt;&lt;span style=&quot;color: #0000ff;&quot;&gt;}&lt;/span&gt;&lt;span style=&quot;color: #a31515;&quot;&gt;&quot;&lt;/span&gt;&lt;span style=&quot;color: #000000;&quot;&gt;)&lt;/span&gt;&lt;/div&gt;&lt;br&gt;&lt;div&gt;&lt;span style=&quot;color: #000000;&quot;&gt;        &lt;/span&gt;&lt;span style=&quot;color: #008000;&quot;&gt;# print laptop details&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: #000000;&quot;&gt;        &lt;/span&gt;&lt;span style=&quot;color: #795e26;&quot;&gt;print&lt;/span&gt;&lt;span style=&quot;color: #000000;&quot;&gt;(&lt;/span&gt;&lt;span style=&quot;color: #0000ff;&quot;&gt;f&lt;/span&gt;&lt;span style=&quot;color: #a31515;&quot;&gt;&quot;laptop = &lt;/span&gt;&lt;span style=&quot;color: #0000ff;&quot;&gt;{&lt;/span&gt;&lt;span style=&quot;color: #001080;&quot;&gt;self&lt;/span&gt;&lt;span style=&quot;color: #000000;&quot;&gt;.&lt;/span&gt;&lt;span style=&quot;color: #001080;&quot;&gt;laptop&lt;/span&gt;&lt;span style=&quot;color: #000000;&quot;&gt;.display()&lt;/span&gt;&lt;span style=&quot;color: #0000ff;&quot;&gt;}&lt;/span&gt;&lt;span style=&quot;color: #a31515;&quot;&gt;&quot;&lt;/span&gt;&lt;span style=&quot;color: #000000;&quot;&gt;)&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="20" y="440" width="560" height="630" as="geometry" />
+        </mxCell>
+        <mxCell id="prOX6sjc2b2Lblc4_ECh-3" value="&lt;div style=&quot;color: #000000;background-color: #ffffff;font-family: Menlo, Monaco, &#39;Courier New&#39;, monospace;font-weight: normal;font-size: 25px;line-height: 38px;white-space: pre;&quot;&gt;&lt;div&gt;&lt;span style=&quot;color: #008000;&quot;&gt;# create a laptop&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: #001080;&quot;&gt;laptop&lt;/span&gt;&lt;span style=&quot;color: #000000;&quot;&gt; = &lt;/span&gt;&lt;span style=&quot;color: #267f99;&quot;&gt;Laptop&lt;/span&gt;&lt;span style=&quot;color: #000000;&quot;&gt;(&lt;/span&gt;&lt;span style=&quot;color: #a31515;&quot;&gt;&quot;Apple MacBook&quot;&lt;/span&gt;&lt;span style=&quot;color: #000000;&quot;&gt;, &lt;/span&gt;&lt;span style=&quot;color: #a31515;&quot;&gt;&quot;16GB&quot;&lt;/span&gt;&lt;span style=&quot;color: #000000;&quot;&gt;, &lt;/span&gt;&lt;span style=&quot;color: #a31515;&quot;&gt;&quot;M2 Pro&quot;&lt;/span&gt;&lt;span style=&quot;color: #000000;&quot;&gt;)&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="830" y="1169" width="560" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="prOX6sjc2b2Lblc4_ECh-4" value="0x11000" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontStyle=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="827" y="1370" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="prOX6sjc2b2Lblc4_ECh-5" value="0x10000" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="827" y="1340" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="prOX6sjc2b2Lblc4_ECh-6" value="laptop&lt;div&gt;(reference)&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="827" y="1420" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="prOX6sjc2b2Lblc4_ECh-7" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontStyle=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="1007" y="1370" width="270" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="prOX6sjc2b2Lblc4_ECh-8" value="0x11000" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="1007" y="1340" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="prOX6sjc2b2Lblc4_ECh-9" value="model = &quot;Apple MacBook&quot;" style="rounded=0;whiteSpace=wrap;html=1;align=left;fontStyle=1;fontSize=15;spacingLeft=6;" vertex="1" parent="1">
+          <mxGeometry x="1022" y="1384" width="240" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="prOX6sjc2b2Lblc4_ECh-10" value="ram = &quot;16GB&quot;" style="rounded=0;whiteSpace=wrap;html=1;align=left;fontStyle=1;fontSize=15;spacingLeft=6;" vertex="1" parent="1">
+          <mxGeometry x="1022" y="1424" width="240" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="prOX6sjc2b2Lblc4_ECh-11" value="cpu = &quot;M2 Pro&quot;" style="rounded=0;whiteSpace=wrap;html=1;align=left;fontStyle=1;fontSize=15;spacingLeft=6;" vertex="1" parent="1">
+          <mxGeometry x="1022" y="1464" width="240" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="prOX6sjc2b2Lblc4_ECh-12" value="Object of Laptop class" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="1007" y="1510" width="270" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="prOX6sjc2b2Lblc4_ECh-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.179;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="prOX6sjc2b2Lblc4_ECh-4" target="prOX6sjc2b2Lblc4_ECh-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="prOX6sjc2b2Lblc4_ECh-16" value="&lt;div style=&quot;color: #000000;background-color: #ffffff;font-family: Menlo, Monaco, &#39;Courier New&#39;, monospace;font-weight: normal;font-size: 25px;line-height: 38px;white-space: pre;&quot;&gt;&lt;div&gt;&lt;span style=&quot;color: #008000;&quot;&gt;# create an employee&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: #001080;&quot;&gt;employee&lt;/span&gt;&lt;span style=&quot;color: #000000;&quot;&gt; = &lt;/span&gt;&lt;span style=&quot;color: #267f99;&quot;&gt;Employee&lt;/span&gt;&lt;span style=&quot;color: #000000;&quot;&gt;(&lt;/span&gt;&lt;span style=&quot;color: #098658;&quot;&gt;1&lt;/span&gt;&lt;span style=&quot;color: #000000;&quot;&gt;, &lt;/span&gt;&lt;span style=&quot;color: #a31515;&quot;&gt;&quot;Amit&quot;&lt;/span&gt;&lt;span style=&quot;color: #000000;&quot;&gt;, &lt;/span&gt;&lt;span style=&quot;color: #098658;&quot;&gt;20000&lt;/span&gt;&lt;span style=&quot;color: #000000;&quot;&gt;, &lt;/span&gt;&lt;span style=&quot;color: #001080;&quot;&gt;laptop&lt;/span&gt;&lt;span style=&quot;color: #000000;&quot;&gt;)&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: #001080;&quot;&gt;employee&lt;/span&gt;&lt;span style=&quot;color: #000000;&quot;&gt;.&lt;/span&gt;&lt;span style=&quot;color: #795e26;&quot;&gt;display&lt;/span&gt;&lt;span style=&quot;color: #000000;&quot;&gt;()&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="20" y="1169" width="560" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="prOX6sjc2b2Lblc4_ECh-17" value="0x21000" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontStyle=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="20" y="1380" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="prOX6sjc2b2Lblc4_ECh-18" value="0x20000" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="20" y="1350" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="prOX6sjc2b2Lblc4_ECh-19" value="employee&lt;div&gt;(reference)&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="20" y="1430" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="prOX6sjc2b2Lblc4_ECh-20" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontStyle=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="200" y="1380" width="270" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="prOX6sjc2b2Lblc4_ECh-21" value="0x21000" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="200" y="1350" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="prOX6sjc2b2Lblc4_ECh-22" value="id = 1" style="rounded=0;whiteSpace=wrap;html=1;align=left;fontStyle=1;fontSize=15;spacingLeft=6;" vertex="1" parent="1">
+          <mxGeometry x="215" y="1394" width="240" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="prOX6sjc2b2Lblc4_ECh-23" value="name = &quot;Amit&quot;" style="rounded=0;whiteSpace=wrap;html=1;align=left;fontStyle=1;fontSize=15;spacingLeft=6;" vertex="1" parent="1">
+          <mxGeometry x="215" y="1434" width="240" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="prOX6sjc2b2Lblc4_ECh-24" value="salary = 20000" style="rounded=0;whiteSpace=wrap;html=1;align=left;fontStyle=1;fontSize=15;spacingLeft=6;" vertex="1" parent="1">
+          <mxGeometry x="215" y="1474" width="240" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="prOX6sjc2b2Lblc4_ECh-25" value="Object of Employee class" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="200" y="1570" width="270" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="prOX6sjc2b2Lblc4_ECh-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="prOX6sjc2b2Lblc4_ECh-27" target="prOX6sjc2b2Lblc4_ECh-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="prOX6sjc2b2Lblc4_ECh-27" value="laptop = 0x11000" style="rounded=0;whiteSpace=wrap;html=1;align=left;fontStyle=1;fontSize=15;spacingLeft=6;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="215" y="1516" width="240" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="prOX6sjc2b2Lblc4_ECh-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.011;entryY=0.139;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="prOX6sjc2b2Lblc4_ECh-17" target="prOX6sjc2b2Lblc4_ECh-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="FmWr1hiWE1l5sHwy1rs9" name="composition">
+    <mxGraphModel dx="1242" dy="807" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="VwXvH8DTq1j0kUvuxqCq-1" value="&lt;div style=&quot;color: #000000;background-color: #ffffff;font-family: Menlo, Monaco, &#39;Courier New&#39;, monospace;font-weight: normal;font-size: 25px;line-height: 38px;white-space: pre;&quot;&gt;&lt;div&gt;&lt;span style=&quot;color: #0000ff;&quot;&gt;class&lt;/span&gt;&lt;span style=&quot;color: #000000;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;color: #267f99;&quot;&gt;Laptop&lt;/span&gt;&lt;span style=&quot;color: #000000;&quot;&gt;:&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: #000000;&quot;&gt;    &lt;/span&gt;&lt;span style=&quot;color: #0000ff;&quot;&gt;def&lt;/span&gt;&lt;span style=&quot;color: #000000;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;color: #795e26;&quot;&gt;__init__&lt;/span&gt;&lt;span style=&quot;color: #000000;&quot;&gt;(&lt;/span&gt;&lt;span style=&quot;color: #001080;&quot;&gt;self&lt;/span&gt;&lt;span style=&quot;color: #000000;&quot;&gt;, &lt;/span&gt;&lt;span style=&quot;color: #001080;&quot;&gt;brand&lt;/span&gt;&lt;span style=&quot;color: #000000;&quot;&gt;, &lt;/span&gt;&lt;span style=&quot;color: #001080;&quot;&gt;ram&lt;/span&gt;&lt;span style=&quot;color: #000000;&quot;&gt;, &lt;/span&gt;&lt;span style=&quot;color: #001080;&quot;&gt;cpu&lt;/span&gt;&lt;span style=&quot;color: #000000;&quot;&gt;):&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: #000000;&quot;&gt;        &lt;/span&gt;&lt;span style=&quot;color: #001080;&quot;&gt;self&lt;/span&gt;&lt;span style=&quot;color: #000000;&quot;&gt;.&lt;/span&gt;&lt;span style=&quot;color: #001080;&quot;&gt;brand&lt;/span&gt;&lt;span style=&quot;color: #000000;&quot;&gt; = &lt;/span&gt;&lt;span style=&quot;color: #001080;&quot;&gt;brand&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: #000000;&quot;&gt;        &lt;/span&gt;&lt;span style=&quot;color: #001080;&quot;&gt;self&lt;/span&gt;&lt;span style=&quot;color: #000000;&quot;&gt;.&lt;/span&gt;&lt;span style=&quot;color: #001080;&quot;&gt;ram&lt;/span&gt;&lt;span style=&quot;color: #000000;&quot;&gt; = &lt;/span&gt;&lt;span style=&quot;color: #001080;&quot;&gt;ram&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: #000000;&quot;&gt;        &lt;/span&gt;&lt;span style=&quot;color: #001080;&quot;&gt;self&lt;/span&gt;&lt;span style=&quot;color: #000000;&quot;&gt;.&lt;/span&gt;&lt;span style=&quot;color: #001080;&quot;&gt;cpu&lt;/span&gt;&lt;span style=&quot;color: #000000;&quot;&gt; = &lt;/span&gt;&lt;span style=&quot;color: #001080;&quot;&gt;cpu&lt;/span&gt;&lt;/div&gt;&lt;br&gt;&lt;div&gt;&lt;span style=&quot;color: #000000;&quot;&gt;    &lt;/span&gt;&lt;span style=&quot;color: #0000ff;&quot;&gt;def&lt;/span&gt;&lt;span style=&quot;color: #000000;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;color: #795e26;&quot;&gt;diplay&lt;/span&gt;&lt;span style=&quot;color: #000000;&quot;&gt;(&lt;/span&gt;&lt;span style=&quot;color: #001080;&quot;&gt;self&lt;/span&gt;&lt;span style=&quot;color: #000000;&quot;&gt;):&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: #000000;&quot;&gt;        &lt;/span&gt;&lt;span style=&quot;color: #795e26;&quot;&gt;print&lt;/span&gt;&lt;span style=&quot;color: #000000;&quot;&gt;(&lt;/span&gt;&lt;span style=&quot;color: #0000ff;&quot;&gt;f&lt;/span&gt;&lt;span style=&quot;color: #a31515;&quot;&gt;&quot;Laptop [brand: &lt;/span&gt;&lt;span style=&quot;color: #0000ff;&quot;&gt;{&lt;/span&gt;&lt;span style=&quot;color: #001080;&quot;&gt;self&lt;/span&gt;&lt;span style=&quot;color: #000000;&quot;&gt;.&lt;/span&gt;&lt;span style=&quot;color: #001080;&quot;&gt;brand&lt;/span&gt;&lt;span style=&quot;color: #0000ff;&quot;&gt;:&amp;lt;15}&lt;/span&gt;&lt;span style=&quot;color: #a31515;&quot;&gt;, ram: &lt;/span&gt;&lt;span style=&quot;color: #0000ff;&quot;&gt;{&lt;/span&gt;&lt;span style=&quot;color: #001080;&quot;&gt;self&lt;/span&gt;&lt;span style=&quot;color: #000000;&quot;&gt;.&lt;/span&gt;&lt;span style=&quot;color: #001080;&quot;&gt;ram&lt;/span&gt;&lt;span style=&quot;color: #0000ff;&quot;&gt;:&amp;lt;6}&lt;/span&gt;&lt;span style=&quot;color: #a31515;&quot;&gt;, cpu: &lt;/span&gt;&lt;span style=&quot;color: #0000ff;&quot;&gt;{&lt;/span&gt;&lt;span style=&quot;color: #001080;&quot;&gt;self&lt;/span&gt;&lt;span style=&quot;color: #000000;&quot;&gt;.&lt;/span&gt;&lt;span style=&quot;color: #001080;&quot;&gt;cpu&lt;/span&gt;&lt;span style=&quot;color: #0000ff;&quot;&gt;:&amp;lt;15}&lt;/span&gt;&lt;span style=&quot;color: #a31515;&quot;&gt;]&quot;&lt;/span&gt;&lt;span style=&quot;color: #000000;&quot;&gt;)&lt;/span&gt;&lt;/div&gt;&lt;br&gt;&lt;br&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="10" y="40" width="560" height="400" as="geometry" />
+        </mxCell>
+        <mxCell id="VwXvH8DTq1j0kUvuxqCq-7" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontStyle=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="540" y="1426" width="270" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="VwXvH8DTq1j0kUvuxqCq-8" value="0x11000" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="540" y="1396" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="VwXvH8DTq1j0kUvuxqCq-9" value="model = &quot;Apple MacBook&quot;" style="rounded=0;whiteSpace=wrap;html=1;align=left;fontStyle=1;fontSize=15;spacingLeft=6;" vertex="1" parent="1">
+          <mxGeometry x="555" y="1440" width="240" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="VwXvH8DTq1j0kUvuxqCq-10" value="ram = &quot;16GB&quot;" style="rounded=0;whiteSpace=wrap;html=1;align=left;fontStyle=1;fontSize=15;spacingLeft=6;" vertex="1" parent="1">
+          <mxGeometry x="555" y="1480" width="240" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="VwXvH8DTq1j0kUvuxqCq-11" value="cpu = &quot;M2 Pro&quot;" style="rounded=0;whiteSpace=wrap;html=1;align=left;fontStyle=1;fontSize=15;spacingLeft=6;" vertex="1" parent="1">
+          <mxGeometry x="555" y="1520" width="240" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="VwXvH8DTq1j0kUvuxqCq-12" value="Object of Laptop class" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="540" y="1566" width="270" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="VwXvH8DTq1j0kUvuxqCq-15" value="0x21000" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontStyle=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="30" y="1380" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="VwXvH8DTq1j0kUvuxqCq-16" value="0x20000" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="30" y="1350" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="VwXvH8DTq1j0kUvuxqCq-17" value="employee&lt;div&gt;(reference)&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="30" y="1430" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="VwXvH8DTq1j0kUvuxqCq-18" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontStyle=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="210" y="1380" width="270" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="VwXvH8DTq1j0kUvuxqCq-19" value="0x21000" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="210" y="1350" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="VwXvH8DTq1j0kUvuxqCq-20" value="id = 1" style="rounded=0;whiteSpace=wrap;html=1;align=left;fontStyle=1;fontSize=15;spacingLeft=6;" vertex="1" parent="1">
+          <mxGeometry x="225" y="1394" width="240" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="VwXvH8DTq1j0kUvuxqCq-21" value="name = &quot;Amit&quot;" style="rounded=0;whiteSpace=wrap;html=1;align=left;fontStyle=1;fontSize=15;spacingLeft=6;" vertex="1" parent="1">
+          <mxGeometry x="225" y="1434" width="240" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="VwXvH8DTq1j0kUvuxqCq-22" value="salary = 20000" style="rounded=0;whiteSpace=wrap;html=1;align=left;fontStyle=1;fontSize=15;spacingLeft=6;" vertex="1" parent="1">
+          <mxGeometry x="225" y="1474" width="240" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="VwXvH8DTq1j0kUvuxqCq-23" value="Object of Employee class" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="210" y="1570" width="270" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="VwXvH8DTq1j0kUvuxqCq-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="VwXvH8DTq1j0kUvuxqCq-25" target="VwXvH8DTq1j0kUvuxqCq-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VwXvH8DTq1j0kUvuxqCq-25" value="laptop = 0x11000" style="rounded=0;whiteSpace=wrap;html=1;align=left;fontStyle=1;fontSize=15;spacingLeft=6;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="225" y="1516" width="240" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="VwXvH8DTq1j0kUvuxqCq-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.011;entryY=0.139;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="VwXvH8DTq1j0kUvuxqCq-15" target="VwXvH8DTq1j0kUvuxqCq-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VwXvH8DTq1j0kUvuxqCq-27" value="&lt;div style=&quot;color: #000000;background-color: #ffffff;font-family: Menlo, Monaco, &#39;Courier New&#39;, monospace;font-weight: normal;font-size: 25px;line-height: 38px;white-space: pre;&quot;&gt;&lt;div&gt;&lt;span style=&quot;color: #0000ff;&quot;&gt;class&lt;/span&gt;&lt;span style=&quot;color: #000000;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;color: #267f99;&quot;&gt;Employee&lt;/span&gt;&lt;span style=&quot;color: #000000;&quot;&gt;:&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: #000000;&quot;&gt;    &lt;/span&gt;&lt;span style=&quot;color: #0000ff;&quot;&gt;def&lt;/span&gt;&lt;span style=&quot;color: #000000;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;color: #795e26;&quot;&gt;__init__&lt;/span&gt;&lt;span style=&quot;color: #000000;&quot;&gt;(&lt;/span&gt;&lt;span style=&quot;color: #001080;&quot;&gt;self&lt;/span&gt;&lt;span style=&quot;color: #000000;&quot;&gt;, &lt;/span&gt;&lt;span style=&quot;color: #001080;&quot;&gt;employee_id&lt;/span&gt;&lt;span style=&quot;color: #000000;&quot;&gt;, &lt;/span&gt;&lt;span style=&quot;color: #001080;&quot;&gt;name&lt;/span&gt;&lt;span style=&quot;color: #000000;&quot;&gt;, &lt;/span&gt;&lt;span style=&quot;color: #001080;&quot;&gt;salary&lt;/span&gt;&lt;span style=&quot;color: #000000;&quot;&gt;, &lt;/span&gt;&lt;span style=&quot;color: #001080;&quot;&gt;laptop_brand&lt;/span&gt;&lt;span style=&quot;color: #000000;&quot;&gt;, &lt;/span&gt;&lt;span style=&quot;color: #001080;&quot;&gt;laptop_ram&lt;/span&gt;&lt;span style=&quot;color: #000000;&quot;&gt;, &lt;/span&gt;&lt;span style=&quot;color: #001080;&quot;&gt;laptop_cpu&lt;/span&gt;&lt;span style=&quot;color: #000000;&quot;&gt;):&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: #000000;&quot;&gt;        &lt;/span&gt;&lt;span style=&quot;color: #001080;&quot;&gt;self&lt;/span&gt;&lt;span style=&quot;color: #000000;&quot;&gt;.&lt;/span&gt;&lt;span style=&quot;color: #001080;&quot;&gt;id&lt;/span&gt;&lt;span style=&quot;color: #000000;&quot;&gt; = &lt;/span&gt;&lt;span style=&quot;color: #001080;&quot;&gt;employee_id&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: #000000;&quot;&gt;        &lt;/span&gt;&lt;span style=&quot;color: #001080;&quot;&gt;self&lt;/span&gt;&lt;span style=&quot;color: #000000;&quot;&gt;.&lt;/span&gt;&lt;span style=&quot;color: #001080;&quot;&gt;name&lt;/span&gt;&lt;span style=&quot;color: #000000;&quot;&gt; = &lt;/span&gt;&lt;span style=&quot;color: #001080;&quot;&gt;name&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: #000000;&quot;&gt;        &lt;/span&gt;&lt;span style=&quot;color: #001080;&quot;&gt;self&lt;/span&gt;&lt;span style=&quot;color: #000000;&quot;&gt;.&lt;/span&gt;&lt;span style=&quot;color: #001080;&quot;&gt;salary&lt;/span&gt;&lt;span style=&quot;color: #000000;&quot;&gt; = &lt;/span&gt;&lt;span style=&quot;color: #001080;&quot;&gt;salary&lt;/span&gt;&lt;/div&gt;&lt;br&gt;&lt;div&gt;&lt;span style=&quot;color: #000000;&quot;&gt;        &lt;/span&gt;&lt;span style=&quot;color: #008000;&quot;&gt;# create a new object of Laptop class&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: #000000;&quot;&gt;        &lt;/span&gt;&lt;span style=&quot;color: #001080;&quot;&gt;self&lt;/span&gt;&lt;span style=&quot;color: #000000;&quot;&gt;.&lt;/span&gt;&lt;span style=&quot;color: #001080;&quot;&gt;laptop&lt;/span&gt;&lt;span style=&quot;color: #000000;&quot;&gt; = &lt;/span&gt;&lt;span style=&quot;color: #267f99;&quot;&gt;Laptop&lt;/span&gt;&lt;span style=&quot;color: #000000;&quot;&gt;(&lt;/span&gt;&lt;span style=&quot;color: #001080;&quot;&gt;laptop_brand&lt;/span&gt;&lt;span style=&quot;color: #000000;&quot;&gt;, &lt;/span&gt;&lt;span style=&quot;color: #001080;&quot;&gt;laptop_ram&lt;/span&gt;&lt;span style=&quot;color: #000000;&quot;&gt;, &lt;/span&gt;&lt;span style=&quot;color: #001080;&quot;&gt;laptop_cpu&lt;/span&gt;&lt;span style=&quot;color: #000000;&quot;&gt;)&lt;/span&gt;&lt;/div&gt;&lt;br&gt;&lt;div&gt;&lt;span style=&quot;color: #000000;&quot;&gt;    &lt;/span&gt;&lt;span style=&quot;color: #0000ff;&quot;&gt;def&lt;/span&gt;&lt;span style=&quot;color: #000000;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;color: #795e26;&quot;&gt;display&lt;/span&gt;&lt;span style=&quot;color: #000000;&quot;&gt;(&lt;/span&gt;&lt;span style=&quot;color: #001080;&quot;&gt;self&lt;/span&gt;&lt;span style=&quot;color: #000000;&quot;&gt;):&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: #000000;&quot;&gt;        &lt;/span&gt;&lt;span style=&quot;color: #795e26;&quot;&gt;print&lt;/span&gt;&lt;span style=&quot;color: #000000;&quot;&gt;(&lt;/span&gt;&lt;span style=&quot;color: #0000ff;&quot;&gt;f&lt;/span&gt;&lt;span style=&quot;color: #a31515;&quot;&gt;&quot;id     = &lt;/span&gt;&lt;span style=&quot;color: #0000ff;&quot;&gt;{&lt;/span&gt;&lt;span style=&quot;color: #001080;&quot;&gt;self&lt;/span&gt;&lt;span style=&quot;color: #000000;&quot;&gt;.&lt;/span&gt;&lt;span style=&quot;color: #001080;&quot;&gt;id&lt;/span&gt;&lt;span style=&quot;color: #0000ff;&quot;&gt;}&lt;/span&gt;&lt;span style=&quot;color: #a31515;&quot;&gt;&quot;&lt;/span&gt;&lt;span style=&quot;color: #000000;&quot;&gt;)&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: #000000;&quot;&gt;        &lt;/span&gt;&lt;span style=&quot;color: #795e26;&quot;&gt;print&lt;/span&gt;&lt;span style=&quot;color: #000000;&quot;&gt;(&lt;/span&gt;&lt;span style=&quot;color: #0000ff;&quot;&gt;f&lt;/span&gt;&lt;span style=&quot;color: #a31515;&quot;&gt;&quot;name   = &lt;/span&gt;&lt;span style=&quot;color: #0000ff;&quot;&gt;{&lt;/span&gt;&lt;span style=&quot;color: #001080;&quot;&gt;self&lt;/span&gt;&lt;span style=&quot;color: #000000;&quot;&gt;.&lt;/span&gt;&lt;span style=&quot;color: #001080;&quot;&gt;name&lt;/span&gt;&lt;span style=&quot;color: #0000ff;&quot;&gt;}&lt;/span&gt;&lt;span style=&quot;color: #a31515;&quot;&gt;&quot;&lt;/span&gt;&lt;span style=&quot;color: #000000;&quot;&gt;)&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: #000000;&quot;&gt;        &lt;/span&gt;&lt;span style=&quot;color: #795e26;&quot;&gt;print&lt;/span&gt;&lt;span style=&quot;color: #000000;&quot;&gt;(&lt;/span&gt;&lt;span style=&quot;color: #0000ff;&quot;&gt;f&lt;/span&gt;&lt;span style=&quot;color: #a31515;&quot;&gt;&quot;salary = &lt;/span&gt;&lt;span style=&quot;color: #0000ff;&quot;&gt;{&lt;/span&gt;&lt;span style=&quot;color: #001080;&quot;&gt;self&lt;/span&gt;&lt;span style=&quot;color: #000000;&quot;&gt;.&lt;/span&gt;&lt;span style=&quot;color: #001080;&quot;&gt;salary&lt;/span&gt;&lt;span style=&quot;color: #0000ff;&quot;&gt;}&lt;/span&gt;&lt;span style=&quot;color: #a31515;&quot;&gt;&quot;&lt;/span&gt;&lt;span style=&quot;color: #000000;&quot;&gt;)&lt;/span&gt;&lt;/div&gt;&lt;br&gt;&lt;div&gt;&lt;span style=&quot;color: #000000;&quot;&gt;        &lt;/span&gt;&lt;span style=&quot;color: #008000;&quot;&gt;# print laptop details&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: #000000;&quot;&gt;        &lt;/span&gt;&lt;span style=&quot;color: #795e26;&quot;&gt;print&lt;/span&gt;&lt;span style=&quot;color: #000000;&quot;&gt;(&lt;/span&gt;&lt;span style=&quot;color: #0000ff;&quot;&gt;f&lt;/span&gt;&lt;span style=&quot;color: #a31515;&quot;&gt;&quot;laptop = &lt;/span&gt;&lt;span style=&quot;color: #0000ff;&quot;&gt;{&lt;/span&gt;&lt;span style=&quot;color: #001080;&quot;&gt;self&lt;/span&gt;&lt;span style=&quot;color: #000000;&quot;&gt;.&lt;/span&gt;&lt;span style=&quot;color: #001080;&quot;&gt;laptop&lt;/span&gt;&lt;span style=&quot;color: #000000;&quot;&gt;.&lt;/span&gt;&lt;span style=&quot;color: #795e26;&quot;&gt;display&lt;/span&gt;&lt;span style=&quot;color: #000000;&quot;&gt;()&lt;/span&gt;&lt;span style=&quot;color: #0000ff;&quot;&gt;}&lt;/span&gt;&lt;span style=&quot;color: #a31515;&quot;&gt;&quot;&lt;/span&gt;&lt;span style=&quot;color: #000000;&quot;&gt;)&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="20" y="430" width="560" height="630" as="geometry" />
+        </mxCell>
+        <mxCell id="VwXvH8DTq1j0kUvuxqCq-28" value="&lt;div style=&quot;color: #000000;background-color: #ffffff;font-family: Menlo, Monaco, &#39;Courier New&#39;, monospace;font-weight: normal;font-size: 25px;line-height: 38px;white-space: pre;&quot;&gt;&lt;div&gt;&lt;span style=&quot;color: #008000;&quot;&gt;# create an employee&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: #001080;&quot;&gt;employee&lt;/span&gt;&lt;span style=&quot;color: #000000;&quot;&gt; = &lt;/span&gt;&lt;span style=&quot;color: #267f99;&quot;&gt;Employee&lt;/span&gt;&lt;span style=&quot;color: #000000;&quot;&gt;(&lt;/span&gt;&lt;span style=&quot;color: #098658;&quot;&gt;1&lt;/span&gt;&lt;span style=&quot;color: #000000;&quot;&gt;, &lt;/span&gt;&lt;span style=&quot;color: #a31515;&quot;&gt;&quot;Amit&quot;&lt;/span&gt;&lt;span style=&quot;color: #000000;&quot;&gt;, &lt;/span&gt;&lt;span style=&quot;color: #098658;&quot;&gt;20000&lt;/span&gt;&lt;span style=&quot;color: #000000;&quot;&gt;, &lt;/span&gt;&lt;span style=&quot;color: #a31515;&quot;&gt;&quot;Apple MacBook&quot;&lt;/span&gt;&lt;span style=&quot;color: #000000;&quot;&gt;, &lt;/span&gt;&lt;span style=&quot;color: #a31515;&quot;&gt;&quot;16GB&quot;&lt;/span&gt;&lt;span style=&quot;color: #000000;&quot;&gt;, &lt;/span&gt;&lt;span style=&quot;color: #a31515;&quot;&gt;&quot;M2 Pro&quot;&lt;/span&gt;&lt;span style=&quot;color: #000000;&quot;&gt;)&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: #001080;&quot;&gt;employee&lt;/span&gt;&lt;span style=&quot;color: #000000;&quot;&gt;.&lt;/span&gt;&lt;span style=&quot;color: #795e26;&quot;&gt;display&lt;/span&gt;&lt;span style=&quot;color: #000000;&quot;&gt;()&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="30" y="1190" width="560" height="140" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="iTbyvgzLXvcAYAUMSqZv" name="single inheritance">
+    <mxGraphModel dx="1242" dy="807" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="7qBFacKTWvHfiU5Bv74u-1" value="&lt;div style=&quot;color: #000000;background-color: #ffffff;font-family: Menlo, Monaco, &#39;Courier New&#39;, monospace;font-weight: normal;font-size: 25px;line-height: 38px;white-space: pre;&quot;&gt;&lt;div&gt;&lt;span style=&quot;color: #0000ff;&quot;&gt;class&lt;/span&gt;&lt;span style=&quot;color: #000000;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;color: #267f99;&quot;&gt;Person&lt;/span&gt;&lt;span style=&quot;color: #000000;&quot;&gt;:&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: #000000;&quot;&gt;    &lt;/span&gt;&lt;span style=&quot;color: #0000ff;&quot;&gt;def&lt;/span&gt;&lt;span style=&quot;color: #000000;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;color: #795e26;&quot;&gt;__init__&lt;/span&gt;&lt;span style=&quot;color: #000000;&quot;&gt;(&lt;/span&gt;&lt;span style=&quot;color: #001080;&quot;&gt;self&lt;/span&gt;&lt;span style=&quot;color: #000000;&quot;&gt;, &lt;/span&gt;&lt;span style=&quot;color: #001080;&quot;&gt;name&lt;/span&gt;&lt;span style=&quot;color: #000000;&quot;&gt;, &lt;/span&gt;&lt;span style=&quot;color: #001080;&quot;&gt;age&lt;/span&gt;&lt;span style=&quot;color: #000000;&quot;&gt;):&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: #000000;&quot;&gt;        &lt;/span&gt;&lt;span style=&quot;color: #001080;&quot;&gt;self&lt;/span&gt;&lt;span style=&quot;color: #000000;&quot;&gt;.&lt;/span&gt;&lt;span style=&quot;color: #001080;&quot;&gt;name&lt;/span&gt;&lt;span style=&quot;color: #000000;&quot;&gt; = &lt;/span&gt;&lt;span style=&quot;color: #001080;&quot;&gt;name&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: #000000;&quot;&gt;        &lt;/span&gt;&lt;span style=&quot;color: #001080;&quot;&gt;self&lt;/span&gt;&lt;span style=&quot;color: #000000;&quot;&gt;.&lt;/span&gt;&lt;span style=&quot;color: #001080;&quot;&gt;age&lt;/span&gt;&lt;span style=&quot;color: #000000;&quot;&gt; = &lt;/span&gt;&lt;span style=&quot;color: #001080;&quot;&gt;age&lt;/span&gt;&lt;/div&gt;&lt;br&gt;&lt;div&gt;&lt;span style=&quot;color: #000000;&quot;&gt;    &lt;/span&gt;&lt;span style=&quot;color: #0000ff;&quot;&gt;def&lt;/span&gt;&lt;span style=&quot;color: #000000;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;color: #795e26;&quot;&gt;display&lt;/span&gt;&lt;span style=&quot;color: #000000;&quot;&gt;(&lt;/span&gt;&lt;span style=&quot;color: #001080;&quot;&gt;self&lt;/span&gt;&lt;span style=&quot;color: #000000;&quot;&gt;):&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: #000000;&quot;&gt;        &lt;/span&gt;&lt;span style=&quot;color: #795e26;&quot;&gt;print&lt;/span&gt;&lt;span style=&quot;color: #000000;&quot;&gt;(&lt;/span&gt;&lt;span style=&quot;color: #0000ff;&quot;&gt;f&lt;/span&gt;&lt;span style=&quot;color: #a31515;&quot;&gt;&quot;name = &lt;/span&gt;&lt;span style=&quot;color: #0000ff;&quot;&gt;{&lt;/span&gt;&lt;span style=&quot;color: #001080;&quot;&gt;self&lt;/span&gt;&lt;span style=&quot;color: #000000;&quot;&gt;.&lt;/span&gt;&lt;span style=&quot;color: #001080;&quot;&gt;name&lt;/span&gt;&lt;span style=&quot;color: #0000ff;&quot;&gt;}&lt;/span&gt;&lt;span style=&quot;color: #a31515;&quot;&gt;&quot;&lt;/span&gt;&lt;span style=&quot;color: #000000;&quot;&gt;)&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: #000000;&quot;&gt;        &lt;/span&gt;&lt;span style=&quot;color: #795e26;&quot;&gt;print&lt;/span&gt;&lt;span style=&quot;color: #000000;&quot;&gt;(&lt;/span&gt;&lt;span style=&quot;color: #0000ff;&quot;&gt;f&lt;/span&gt;&lt;span style=&quot;color: #a31515;&quot;&gt;&quot;age  = &lt;/span&gt;&lt;span style=&quot;color: #0000ff;&quot;&gt;{&lt;/span&gt;&lt;span style=&quot;color: #001080;&quot;&gt;self&lt;/span&gt;&lt;span style=&quot;color: #000000;&quot;&gt;.&lt;/span&gt;&lt;span style=&quot;color: #001080;&quot;&gt;age&lt;/span&gt;&lt;span style=&quot;color: #0000ff;&quot;&gt;}&lt;/span&gt;&lt;span style=&quot;color: #a31515;&quot;&gt;&quot;&lt;/span&gt;&lt;span style=&quot;color: #000000;&quot;&gt;)&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="30" y="20" width="560" height="330" as="geometry" />
+        </mxCell>
+        <mxCell id="7qBFacKTWvHfiU5Bv74u-2" value="&lt;div style=&quot;color: #000000;background-color: #ffffff;font-family: Menlo, Monaco, &#39;Courier New&#39;, monospace;font-weight: normal;font-size: 25px;line-height: 38px;white-space: pre;&quot;&gt;&lt;div&gt;&lt;span style=&quot;color: #0000ff;&quot;&gt;class&lt;/span&gt;&lt;span style=&quot;color: #000000;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;color: #267f99;&quot;&gt;Employee&lt;/span&gt;&lt;span style=&quot;color: #000000;&quot;&gt;(&lt;/span&gt;&lt;span style=&quot;color: #267f99;&quot;&gt;Person&lt;/span&gt;&lt;span style=&quot;color: #000000;&quot;&gt;):&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: #000000;&quot;&gt;    &lt;/span&gt;&lt;span style=&quot;color: #af00db;&quot;&gt;pass&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="34" y="380" width="380" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="7qBFacKTWvHfiU5Bv74u-3" value="&lt;div style=&quot;color: #000000;background-color: #ffffff;font-family: Menlo, Monaco, &#39;Courier New&#39;, monospace;font-weight: normal;font-size: 25px;line-height: 38px;white-space: pre;&quot;&gt;&lt;div&gt;&lt;span style=&quot;color: #001080;&quot;&gt;person&lt;/span&gt;&lt;span style=&quot;color: #000000;&quot;&gt; = &lt;/span&gt;&lt;span style=&quot;color: #267f99;&quot;&gt;Person&lt;/span&gt;&lt;span style=&quot;color: #000000;&quot;&gt;(&lt;/span&gt;&lt;span style=&quot;color: #a31515;&quot;&gt;&quot;person1&quot;&lt;/span&gt;&lt;span style=&quot;color: #000000;&quot;&gt;, &lt;/span&gt;&lt;span style=&quot;color: #098658;&quot;&gt;30&lt;/span&gt;&lt;span style=&quot;color: #000000;&quot;&gt;)&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="500" width="490" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JgamdQbYJDw2jrcGloLv-1" value="0x21000" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontStyle=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="40" y="600" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="JgamdQbYJDw2jrcGloLv-2" value="0x20000" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="40" y="570" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="JgamdQbYJDw2jrcGloLv-3" value="person&lt;div&gt;(reference)&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="40" y="650" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="JgamdQbYJDw2jrcGloLv-4" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontStyle=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="220" y="603" width="270" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="JgamdQbYJDw2jrcGloLv-5" value="0x21000" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="220" y="573" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="JgamdQbYJDw2jrcGloLv-6" value="age = 30" style="rounded=0;whiteSpace=wrap;html=1;align=left;fontStyle=1;fontSize=15;spacingLeft=6;" vertex="1" parent="1">
+          <mxGeometry x="235" y="663" width="240" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="JgamdQbYJDw2jrcGloLv-7" value="name = &quot;person1&quot;" style="rounded=0;whiteSpace=wrap;html=1;align=left;fontStyle=1;fontSize=15;spacingLeft=6;" vertex="1" parent="1">
+          <mxGeometry x="235" y="623" width="240" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="JgamdQbYJDw2jrcGloLv-9" value="Object of Person class" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="220" y="720" width="270" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="JgamdQbYJDw2jrcGloLv-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.007;entryY=0.2;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="JgamdQbYJDw2jrcGloLv-1" target="JgamdQbYJDw2jrcGloLv-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JgamdQbYJDw2jrcGloLv-14" value="&lt;div style=&quot;color: #000000;background-color: #ffffff;font-family: Menlo, Monaco, &#39;Courier New&#39;, monospace;font-weight: normal;font-size: 25px;line-height: 38px;white-space: pre;&quot;&gt;&lt;div&gt;&lt;span style=&quot;color: #001080;&quot;&gt;employee&lt;/span&gt;&lt;span style=&quot;color: #000000;&quot;&gt; = &lt;/span&gt;&lt;span style=&quot;color: #267f99;&quot;&gt;Employee&lt;/span&gt;&lt;span style=&quot;color: #000000;&quot;&gt;(&lt;/span&gt;&lt;span style=&quot;color: #a31515;&quot;&gt;&quot;employee1&quot;&lt;/span&gt;&lt;span style=&quot;color: #000000;&quot;&gt;, &lt;/span&gt;&lt;span style=&quot;color: #098658;&quot;&gt;40&lt;/span&gt;&lt;span style=&quot;color: #000000;&quot;&gt;)&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="630" y="500" width="560" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JgamdQbYJDw2jrcGloLv-15" value="0x11000" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontStyle=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="640" y="618" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="JgamdQbYJDw2jrcGloLv-16" value="0x10000" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="640" y="588" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="JgamdQbYJDw2jrcGloLv-17" value="employee&lt;div&gt;(reference)&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="640" y="668" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="JgamdQbYJDw2jrcGloLv-18" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontStyle=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="820" y="616" width="270" height="169" as="geometry" />
+        </mxCell>
+        <mxCell id="JgamdQbYJDw2jrcGloLv-19" value="0x11000" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="820" y="586" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="JgamdQbYJDw2jrcGloLv-22" value="Object of Person class" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="840" y="735" width="230" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="JgamdQbYJDw2jrcGloLv-24" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;fontStyle=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="840" y="631" width="230" height="104" as="geometry" />
+        </mxCell>
+        <mxCell id="JgamdQbYJDw2jrcGloLv-20" value="age = 40" style="rounded=0;whiteSpace=wrap;html=1;align=left;fontStyle=1;fontSize=15;spacingLeft=6;" vertex="1" parent="1">
+          <mxGeometry x="857.5" y="688" width="195" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="JgamdQbYJDw2jrcGloLv-21" value="name = &quot;emplyee&quot;" style="rounded=0;whiteSpace=wrap;html=1;align=left;fontStyle=1;fontSize=15;spacingLeft=6;" vertex="1" parent="1">
+          <mxGeometry x="857.5" y="648" width="195" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="JgamdQbYJDw2jrcGloLv-25" value="Object of Employee class" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="820" y="785" width="270" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="JgamdQbYJDw2jrcGloLv-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.011;entryY=0.16;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="JgamdQbYJDw2jrcGloLv-15" target="JgamdQbYJDw2jrcGloLv-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="M5kx4C6lJorrYeQqUUMC-1" value="Person" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fontSize=17;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="40" y="880" width="180" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="M5kx4C6lJorrYeQqUUMC-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fillColor=#ffe6cc;strokeColor=#d79b00;" edge="1" parent="1" source="M5kx4C6lJorrYeQqUUMC-2" target="M5kx4C6lJorrYeQqUUMC-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="M5kx4C6lJorrYeQqUUMC-2" value="Employee" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fontSize=17;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="40" y="980" width="180" height="50" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="0aEjvnCzw2Z5rk-SlWzz" name="multi-level inheritance">
+    <mxGraphModel dx="1242" dy="807" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="8_tLhtelmeoq_enrTRv8-14" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontStyle=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="1480" y="1086.5" width="310" height="323.5" as="geometry" />
+        </mxCell>
+        <mxCell id="4qdVZrPp6G3A-7KX-cUF-1" value="&lt;div style=&quot;color: #000000;background-color: #ffffff;font-family: Menlo, Monaco, &#39;Courier New&#39;, monospace;font-weight: normal;font-size: 25px;line-height: 38px;white-space: pre;&quot;&gt;&lt;div&gt;&lt;span style=&quot;color: #0000ff;&quot;&gt;class&lt;/span&gt;&lt;span style=&quot;color: #000000;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;color: #267f99;&quot;&gt;Person&lt;/span&gt;&lt;span style=&quot;color: #000000;&quot;&gt;:&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: #000000;&quot;&gt;    &lt;/span&gt;&lt;span style=&quot;color: #0000ff;&quot;&gt;def&lt;/span&gt;&lt;span style=&quot;color: #000000;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;color: #795e26;&quot;&gt;__init__&lt;/span&gt;&lt;span style=&quot;color: #000000;&quot;&gt;(&lt;/span&gt;&lt;span style=&quot;color: #001080;&quot;&gt;self&lt;/span&gt;&lt;span style=&quot;color: #000000;&quot;&gt;, &lt;/span&gt;&lt;span style=&quot;color: #001080;&quot;&gt;name&lt;/span&gt;&lt;span style=&quot;color: #000000;&quot;&gt;, &lt;/span&gt;&lt;span style=&quot;color: #001080;&quot;&gt;age&lt;/span&gt;&lt;span style=&quot;color: #000000;&quot;&gt;):&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: #000000;&quot;&gt;        &lt;/span&gt;&lt;span style=&quot;color: #001080;&quot;&gt;self&lt;/span&gt;&lt;span style=&quot;color: #000000;&quot;&gt;.&lt;/span&gt;&lt;span style=&quot;color: #001080;&quot;&gt;name&lt;/span&gt;&lt;span style=&quot;color: #000000;&quot;&gt; = &lt;/span&gt;&lt;span style=&quot;color: #001080;&quot;&gt;name&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: #000000;&quot;&gt;        &lt;/span&gt;&lt;span style=&quot;color: #001080;&quot;&gt;self&lt;/span&gt;&lt;span style=&quot;color: #000000;&quot;&gt;.&lt;/span&gt;&lt;span style=&quot;color: #001080;&quot;&gt;age&lt;/span&gt;&lt;span style=&quot;color: #000000;&quot;&gt; = &lt;/span&gt;&lt;span style=&quot;color: #001080;&quot;&gt;age&lt;/span&gt;&lt;/div&gt;&lt;br&gt;&lt;div&gt;&lt;span style=&quot;color: #000000;&quot;&gt;    &lt;/span&gt;&lt;span style=&quot;color: #0000ff;&quot;&gt;def&lt;/span&gt;&lt;span style=&quot;color: #000000;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;color: #795e26;&quot;&gt;display&lt;/span&gt;&lt;span style=&quot;color: #000000;&quot;&gt;(&lt;/span&gt;&lt;span style=&quot;color: #001080;&quot;&gt;self&lt;/span&gt;&lt;span style=&quot;color: #000000;&quot;&gt;):&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: #000000;&quot;&gt;        &lt;/span&gt;&lt;span style=&quot;color: #795e26;&quot;&gt;print&lt;/span&gt;&lt;span style=&quot;color: #000000;&quot;&gt;(&lt;/span&gt;&lt;span style=&quot;color: #0000ff;&quot;&gt;f&lt;/span&gt;&lt;span style=&quot;color: #a31515;&quot;&gt;&quot;name = &lt;/span&gt;&lt;span style=&quot;color: #0000ff;&quot;&gt;{&lt;/span&gt;&lt;span style=&quot;color: #001080;&quot;&gt;self&lt;/span&gt;&lt;span style=&quot;color: #000000;&quot;&gt;.&lt;/span&gt;&lt;span style=&quot;color: #001080;&quot;&gt;name&lt;/span&gt;&lt;span style=&quot;color: #0000ff;&quot;&gt;}&lt;/span&gt;&lt;span style=&quot;color: #a31515;&quot;&gt;&quot;&lt;/span&gt;&lt;span style=&quot;color: #000000;&quot;&gt;)&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: #000000;&quot;&gt;        &lt;/span&gt;&lt;span style=&quot;color: #795e26;&quot;&gt;print&lt;/span&gt;&lt;span style=&quot;color: #000000;&quot;&gt;(&lt;/span&gt;&lt;span style=&quot;color: #0000ff;&quot;&gt;f&lt;/span&gt;&lt;span style=&quot;color: #a31515;&quot;&gt;&quot;age  = &lt;/span&gt;&lt;span style=&quot;color: #0000ff;&quot;&gt;{&lt;/span&gt;&lt;span style=&quot;color: #001080;&quot;&gt;self&lt;/span&gt;&lt;span style=&quot;color: #000000;&quot;&gt;.&lt;/span&gt;&lt;span style=&quot;color: #001080;&quot;&gt;age&lt;/span&gt;&lt;span style=&quot;color: #0000ff;&quot;&gt;}&lt;/span&gt;&lt;span style=&quot;color: #a31515;&quot;&gt;&quot;&lt;/span&gt;&lt;span style=&quot;color: #000000;&quot;&gt;)&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="30" y="20" width="560" height="330" as="geometry" />
+        </mxCell>
+        <mxCell id="4qdVZrPp6G3A-7KX-cUF-3" value="&lt;div style=&quot;color: #000000;background-color: #ffffff;font-family: Menlo, Monaco, &#39;Courier New&#39;, monospace;font-weight: normal;font-size: 25px;line-height: 38px;white-space: pre;&quot;&gt;&lt;div&gt;&lt;span style=&quot;color: #001080;&quot;&gt;person&lt;/span&gt;&lt;span style=&quot;color: #000000;&quot;&gt; = &lt;/span&gt;&lt;span style=&quot;color: #267f99;&quot;&gt;Person&lt;/span&gt;&lt;span style=&quot;color: #000000;&quot;&gt;(&lt;/span&gt;&lt;span style=&quot;color: #a31515;&quot;&gt;&quot;person1&quot;&lt;/span&gt;&lt;span style=&quot;color: #000000;&quot;&gt;, &lt;/span&gt;&lt;span style=&quot;color: #098658;&quot;&gt;30&lt;/span&gt;&lt;span style=&quot;color: #000000;&quot;&gt;)&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="30" y="940" width="490" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="4qdVZrPp6G3A-7KX-cUF-4" value="0x21000" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontStyle=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="30" y="1040" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="4qdVZrPp6G3A-7KX-cUF-5" value="0x20000" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="30" y="1010" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="4qdVZrPp6G3A-7KX-cUF-6" value="person&lt;div&gt;(reference)&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="30" y="1090" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="4qdVZrPp6G3A-7KX-cUF-7" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontStyle=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="210" y="1043" width="270" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="4qdVZrPp6G3A-7KX-cUF-8" value="0x21000" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="210" y="1013" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="4qdVZrPp6G3A-7KX-cUF-9" value="age = 30" style="rounded=0;whiteSpace=wrap;html=1;align=left;fontStyle=1;fontSize=15;spacingLeft=6;" vertex="1" parent="1">
+          <mxGeometry x="225" y="1103" width="240" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="4qdVZrPp6G3A-7KX-cUF-10" value="name = &quot;person1&quot;" style="rounded=0;whiteSpace=wrap;html=1;align=left;fontStyle=1;fontSize=15;spacingLeft=6;" vertex="1" parent="1">
+          <mxGeometry x="225" y="1063" width="240" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="4qdVZrPp6G3A-7KX-cUF-11" value="Object of Person class" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="210" y="1160" width="270" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="4qdVZrPp6G3A-7KX-cUF-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.007;entryY=0.2;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="4qdVZrPp6G3A-7KX-cUF-4" target="4qdVZrPp6G3A-7KX-cUF-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4qdVZrPp6G3A-7KX-cUF-14" value="0x11000" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontStyle=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="600" y="1058" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="4qdVZrPp6G3A-7KX-cUF-15" value="0x10000" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="600" y="1028" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="4qdVZrPp6G3A-7KX-cUF-16" value="employee&lt;div&gt;(reference)&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="600" y="1108" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="4qdVZrPp6G3A-7KX-cUF-17" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontStyle=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="780" y="1056" width="270" height="214" as="geometry" />
+        </mxCell>
+        <mxCell id="4qdVZrPp6G3A-7KX-cUF-18" value="0x11000" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="780" y="1026" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="4qdVZrPp6G3A-7KX-cUF-19" value="Object of Person class" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="800" y="1175" width="230" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="4qdVZrPp6G3A-7KX-cUF-20" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;fontStyle=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="800" y="1071" width="230" height="104" as="geometry" />
+        </mxCell>
+        <mxCell id="4qdVZrPp6G3A-7KX-cUF-21" value="age = 40" style="rounded=0;whiteSpace=wrap;html=1;align=left;fontStyle=1;fontSize=15;spacingLeft=6;" vertex="1" parent="1">
+          <mxGeometry x="817.5" y="1128" width="195" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="4qdVZrPp6G3A-7KX-cUF-22" value="name = &quot;employee1&quot;" style="rounded=0;whiteSpace=wrap;html=1;align=left;fontStyle=1;fontSize=15;spacingLeft=6;" vertex="1" parent="1">
+          <mxGeometry x="817.5" y="1088" width="195" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="4qdVZrPp6G3A-7KX-cUF-23" value="Object of Employee class" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="780" y="1270" width="270" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="4qdVZrPp6G3A-7KX-cUF-25" value="&lt;div style=&quot;color: #000000;background-color: #ffffff;font-family: Menlo, Monaco, &#39;Courier New&#39;, monospace;font-weight: normal;font-size: 25px;line-height: 38px;white-space: pre;&quot;&gt;&lt;div&gt;&lt;span style=&quot;color: #008000;&quot;&gt;# child class of Person&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: #0000ff;&quot;&gt;class&lt;/span&gt;&lt;span style=&quot;color: #000000;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;color: #267f99;&quot;&gt;Employee&lt;/span&gt;&lt;span style=&quot;color: #000000;&quot;&gt;(&lt;/span&gt;&lt;span style=&quot;color: #267f99;&quot;&gt;Person&lt;/span&gt;&lt;span style=&quot;color: #000000;&quot;&gt;):&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: #000000;&quot;&gt;    &lt;/span&gt;&lt;span style=&quot;color: #0000ff;&quot;&gt;def&lt;/span&gt;&lt;span style=&quot;color: #000000;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;color: #795e26;&quot;&gt;__init__&lt;/span&gt;&lt;span style=&quot;color: #000000;&quot;&gt;(&lt;/span&gt;&lt;span style=&quot;color: #001080;&quot;&gt;self&lt;/span&gt;&lt;span style=&quot;color: #000000;&quot;&gt;, &lt;/span&gt;&lt;span style=&quot;color: #001080;&quot;&gt;emp_id&lt;/span&gt;&lt;span style=&quot;color: #000000;&quot;&gt;, &lt;/span&gt;&lt;span style=&quot;color: #001080;&quot;&gt;name&lt;/span&gt;&lt;span style=&quot;color: #000000;&quot;&gt;, &lt;/span&gt;&lt;span style=&quot;color: #001080;&quot;&gt;age&lt;/span&gt;&lt;span style=&quot;color: #000000;&quot;&gt;):&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: #000000;&quot;&gt;        &lt;/span&gt;&lt;span style=&quot;color: #267f99;&quot;&gt;super&lt;/span&gt;&lt;span style=&quot;color: #000000;&quot;&gt;().&lt;/span&gt;&lt;span style=&quot;color: #795e26;&quot;&gt;__init__&lt;/span&gt;&lt;span style=&quot;color: #000000;&quot;&gt;(&lt;/span&gt;&lt;span style=&quot;color: #001080;&quot;&gt;name&lt;/span&gt;&lt;span style=&quot;color: #000000;&quot;&gt;, &lt;/span&gt;&lt;span style=&quot;color: #001080;&quot;&gt;age&lt;/span&gt;&lt;span style=&quot;color: #000000;&quot;&gt;)&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: #000000;&quot;&gt;        &lt;/span&gt;&lt;span style=&quot;color: #001080;&quot;&gt;self&lt;/span&gt;&lt;span style=&quot;color: #000000;&quot;&gt;.&lt;/span&gt;&lt;span style=&quot;color: #001080;&quot;&gt;id&lt;/span&gt;&lt;span style=&quot;color: #000000;&quot;&gt; = &lt;/span&gt;&lt;span style=&quot;color: #001080;&quot;&gt;emp_id&lt;/span&gt;&lt;/div&gt;&lt;br&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="30" y="370" width="560" height="250" as="geometry" />
+        </mxCell>
+        <mxCell id="4qdVZrPp6G3A-7KX-cUF-26" value="&lt;div style=&quot;color: #000000;background-color: #ffffff;font-family: Menlo, Monaco, &#39;Courier New&#39;, monospace;font-weight: normal;font-size: 25px;line-height: 38px;white-space: pre;&quot;&gt;&lt;div&gt;&lt;span style=&quot;color: #0000ff;&quot;&gt;class&lt;/span&gt;&lt;span style=&quot;color: #000000;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;color: #267f99;&quot;&gt;Manager&lt;/span&gt;&lt;span style=&quot;color: #000000;&quot;&gt;(&lt;/span&gt;&lt;span style=&quot;color: #267f99;&quot;&gt;Employee&lt;/span&gt;&lt;span style=&quot;color: #000000;&quot;&gt;):&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: #000000;&quot;&gt;    &lt;/span&gt;&lt;span style=&quot;color: #0000ff;&quot;&gt;def&lt;/span&gt;&lt;span style=&quot;color: #000000;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;color: #795e26;&quot;&gt;__init__&lt;/span&gt;&lt;span style=&quot;color: #000000;&quot;&gt;(&lt;/span&gt;&lt;span style=&quot;color: #001080;&quot;&gt;self&lt;/span&gt;&lt;span style=&quot;color: #000000;&quot;&gt;, &lt;/span&gt;&lt;span style=&quot;color: #001080;&quot;&gt;emp_id&lt;/span&gt;&lt;span style=&quot;color: #000000;&quot;&gt;, &lt;/span&gt;&lt;span style=&quot;color: #001080;&quot;&gt;name&lt;/span&gt;&lt;span style=&quot;color: #000000;&quot;&gt;, &lt;/span&gt;&lt;span style=&quot;color: #001080;&quot;&gt;age&lt;/span&gt;&lt;span style=&quot;color: #000000;&quot;&gt;, &lt;/span&gt;&lt;span style=&quot;color: #001080;&quot;&gt;department_id&lt;/span&gt;&lt;span style=&quot;color: #000000;&quot;&gt;):&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: #000000;&quot;&gt;        &lt;/span&gt;&lt;span style=&quot;color: #267f99;&quot;&gt;super&lt;/span&gt;&lt;span style=&quot;color: #000000;&quot;&gt;().&lt;/span&gt;&lt;span style=&quot;color: #795e26;&quot;&gt;__init__&lt;/span&gt;&lt;span style=&quot;color: #000000;&quot;&gt;(&lt;/span&gt;&lt;span style=&quot;color: #001080;&quot;&gt;emp_id&lt;/span&gt;&lt;span style=&quot;color: #000000;&quot;&gt;, &lt;/span&gt;&lt;span style=&quot;color: #001080;&quot;&gt;name&lt;/span&gt;&lt;span style=&quot;color: #000000;&quot;&gt;, &lt;/span&gt;&lt;span style=&quot;color: #001080;&quot;&gt;age&lt;/span&gt;&lt;span style=&quot;color: #000000;&quot;&gt;)&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: #000000;&quot;&gt;        &lt;/span&gt;&lt;span style=&quot;color: #001080;&quot;&gt;self&lt;/span&gt;&lt;span style=&quot;color: #000000;&quot;&gt;.&lt;/span&gt;&lt;span style=&quot;color: #001080;&quot;&gt;department_id&lt;/span&gt;&lt;span style=&quot;color: #000000;&quot;&gt; = &lt;/span&gt;&lt;span style=&quot;color: #001080;&quot;&gt;department_id&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: #000000;&quot;&gt;        &lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="30" y="630" width="560" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="4qdVZrPp6G3A-7KX-cUF-27" value="emp_id = 1" style="rounded=0;whiteSpace=wrap;html=1;align=left;fontStyle=1;fontSize=15;spacingLeft=6;" vertex="1" parent="1">
+          <mxGeometry x="800" y="1220" width="230" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="4qdVZrPp6G3A-7KX-cUF-28" value="&lt;div style=&quot;color: #000000;background-color: #ffffff;font-family: Menlo, Monaco, &#39;Courier New&#39;, monospace;font-weight: normal;font-size: 25px;line-height: 38px;white-space: pre;&quot;&gt;&lt;div&gt;&lt;span style=&quot;color: #001080;&quot;&gt;employee&lt;/span&gt;&lt;span style=&quot;color: #000000;&quot;&gt; = &lt;/span&gt;&lt;span style=&quot;color: #267f99;&quot;&gt;Employee&lt;/span&gt;&lt;span style=&quot;color: #000000;&quot;&gt;(&lt;/span&gt;&lt;span style=&quot;color: #098658;&quot;&gt;1&lt;/span&gt;&lt;span style=&quot;color: #000000;&quot;&gt;, &lt;/span&gt;&lt;span style=&quot;color: #a31515;&quot;&gt;&quot;employee1&quot;&lt;/span&gt;&lt;span style=&quot;color: #000000;&quot;&gt;, &lt;/span&gt;&lt;span style=&quot;color: #098658;&quot;&gt;40&lt;/span&gt;&lt;span style=&quot;color: #000000;&quot;&gt;)&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="590" y="940" width="560" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="4qdVZrPp6G3A-7KX-cUF-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.007;entryY=0.126;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="4qdVZrPp6G3A-7KX-cUF-14" target="4qdVZrPp6G3A-7KX-cUF-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8_tLhtelmeoq_enrTRv8-1" value="&lt;div style=&quot;color: #000000;background-color: #ffffff;font-family: Menlo, Monaco, &#39;Courier New&#39;, monospace;font-weight: normal;font-size: 25px;line-height: 38px;white-space: pre;&quot;&gt;&lt;div&gt;&lt;span style=&quot;color: #001080;&quot;&gt;manager&lt;/span&gt;&lt;span style=&quot;color: #000000;&quot;&gt; = &lt;/span&gt;&lt;span style=&quot;color: #267f99;&quot;&gt;Manager&lt;/span&gt;&lt;span style=&quot;color: #000000;&quot;&gt;(&lt;/span&gt;&lt;span style=&quot;color: #098658;&quot;&gt;10&lt;/span&gt;&lt;span style=&quot;color: #000000;&quot;&gt;, &lt;/span&gt;&lt;span style=&quot;color: #a31515;&quot;&gt;&quot;manager1&quot;&lt;/span&gt;&lt;span style=&quot;color: #000000;&quot;&gt;, &lt;/span&gt;&lt;span style=&quot;color: #098658;&quot;&gt;50&lt;/span&gt;&lt;span style=&quot;color: #000000;&quot;&gt;, &lt;/span&gt;&lt;span style=&quot;color: #a31515;&quot;&gt;&quot;HR&quot;&lt;/span&gt;&lt;span style=&quot;color: #000000;&quot;&gt;)&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1300" y="940" width="560" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8_tLhtelmeoq_enrTRv8-2" value="0x11000" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontStyle=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="1300" y="1085" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="8_tLhtelmeoq_enrTRv8-3" value="0x10000" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="1300" y="1055" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="8_tLhtelmeoq_enrTRv8-4" value="manager&lt;div&gt;(reference)&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="1300" y="1135" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="8_tLhtelmeoq_enrTRv8-5" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontStyle=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="1500" y="1103" width="270" height="207" as="geometry" />
+        </mxCell>
+        <mxCell id="8_tLhtelmeoq_enrTRv8-6" value="0x11000" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="1480" y="1053" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="8_tLhtelmeoq_enrTRv8-7" value="Object of Person class" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="1520" y="1222" width="230" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="8_tLhtelmeoq_enrTRv8-8" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;fontStyle=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="1520" y="1118" width="230" height="104" as="geometry" />
+        </mxCell>
+        <mxCell id="8_tLhtelmeoq_enrTRv8-9" value="age = 40" style="rounded=0;whiteSpace=wrap;html=1;align=left;fontStyle=1;fontSize=15;spacingLeft=6;" vertex="1" parent="1">
+          <mxGeometry x="1537.5" y="1175" width="195" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="8_tLhtelmeoq_enrTRv8-10" value="name = &quot;employee1&quot;" style="rounded=0;whiteSpace=wrap;html=1;align=left;fontStyle=1;fontSize=15;spacingLeft=6;" vertex="1" parent="1">
+          <mxGeometry x="1537.5" y="1135" width="195" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="8_tLhtelmeoq_enrTRv8-11" value="Object of Employee class" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="1500" y="1310" width="270" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="8_tLhtelmeoq_enrTRv8-12" value="emp_id = 1" style="rounded=0;whiteSpace=wrap;html=1;align=left;fontStyle=1;fontSize=15;spacingLeft=6;" vertex="1" parent="1">
+          <mxGeometry x="1520" y="1267" width="230" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="8_tLhtelmeoq_enrTRv8-15" value="department_id = &quot;HR&quot;" style="rounded=0;whiteSpace=wrap;html=1;align=left;fontStyle=1;fontSize=15;spacingLeft=6;" vertex="1" parent="1">
+          <mxGeometry x="1502.5" y="1360" width="267.5" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="8_tLhtelmeoq_enrTRv8-16" value="Object of Manager class" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="1480" y="1410" width="310" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="8_tLhtelmeoq_enrTRv8-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.013;entryY=0.073;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="8_tLhtelmeoq_enrTRv8-2" target="8_tLhtelmeoq_enrTRv8-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ir1wYEh94xKxGr0pKf77-1" value="Person" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fontSize=17;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="30" y="1320" width="180" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Ir1wYEh94xKxGr0pKf77-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fillColor=#ffe6cc;strokeColor=#d79b00;" edge="1" parent="1" source="Ir1wYEh94xKxGr0pKf77-3" target="Ir1wYEh94xKxGr0pKf77-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ir1wYEh94xKxGr0pKf77-3" value="Employee" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fontSize=17;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="30" y="1410" width="180" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Ir1wYEh94xKxGr0pKf77-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" edge="1" parent="1" source="Ir1wYEh94xKxGr0pKf77-4" target="Ir1wYEh94xKxGr0pKf77-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ir1wYEh94xKxGr0pKf77-4" value="Manager" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fontSize=17;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="30" y="1500" width="180" height="50" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="K-j0JdbT9AHN3Tt88x-e" name="multiple inheritance">
+    <mxGraphModel dx="1242" dy="807" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="0CI_nFCLBrb8_V2Ou4aJ-1" value="&lt;div style=&quot;color: #000000;background-color: #ffffff;font-family: Menlo, Monaco, &#39;Courier New&#39;, monospace;font-weight: normal;font-size: 25px;line-height: 38px;white-space: pre;&quot;&gt;&lt;div&gt;&lt;span style=&quot;color: #0000ff;&quot;&gt;class&lt;/span&gt;&lt;span style=&quot;color: #000000;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;color: #267f99;&quot;&gt;Developer&lt;/span&gt;&lt;span style=&quot;color: #000000;&quot;&gt;:&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: #000000;&quot;&gt;    &lt;/span&gt;&lt;span style=&quot;color: #0000ff;&quot;&gt;def&lt;/span&gt;&lt;span style=&quot;color: #000000;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;color: #795e26;&quot;&gt;__init__&lt;/span&gt;&lt;span style=&quot;color: #000000;&quot;&gt;(&lt;/span&gt;&lt;span style=&quot;color: #001080;&quot;&gt;self&lt;/span&gt;&lt;span style=&quot;color: #000000;&quot;&gt;, &lt;/span&gt;&lt;span style=&quot;color: #001080;&quot;&gt;language&lt;/span&gt;&lt;span style=&quot;color: #000000;&quot;&gt;):&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: #000000;&quot;&gt;        &lt;/span&gt;&lt;span style=&quot;color: #001080;&quot;&gt;self&lt;/span&gt;&lt;span style=&quot;color: #000000;&quot;&gt;.&lt;/span&gt;&lt;span style=&quot;color: #001080;&quot;&gt;language&lt;/span&gt;&lt;span style=&quot;color: #000000;&quot;&gt; = &lt;/span&gt;&lt;span style=&quot;color: #001080;&quot;&gt;language&lt;/span&gt;&lt;/div&gt;&lt;br&gt;&lt;div&gt;&lt;span style=&quot;color: #0000ff;&quot;&gt;class&lt;/span&gt;&lt;span style=&quot;color: #000000;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;color: #267f99;&quot;&gt;Tester&lt;/span&gt;&lt;span style=&quot;color: #000000;&quot;&gt;:&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: #000000;&quot;&gt;    &lt;/span&gt;&lt;span style=&quot;color: #0000ff;&quot;&gt;def&lt;/span&gt;&lt;span style=&quot;color: #000000;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;color: #795e26;&quot;&gt;__init__&lt;/span&gt;&lt;span style=&quot;color: #000000;&quot;&gt;(&lt;/span&gt;&lt;span style=&quot;color: #001080;&quot;&gt;self&lt;/span&gt;&lt;span style=&quot;color: #000000;&quot;&gt;, &lt;/span&gt;&lt;span style=&quot;color: #001080;&quot;&gt;testing_type&lt;/span&gt;&lt;span style=&quot;color: #000000;&quot;&gt;):&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: #000000;&quot;&gt;        &lt;/span&gt;&lt;span style=&quot;color: #001080;&quot;&gt;self&lt;/span&gt;&lt;span style=&quot;color: #000000;&quot;&gt;.&lt;/span&gt;&lt;span style=&quot;color: #001080;&quot;&gt;testing_type&lt;/span&gt;&lt;span style=&quot;color: #000000;&quot;&gt; = &lt;/span&gt;&lt;span style=&quot;color: #001080;&quot;&gt;testing_type&lt;/span&gt;&lt;/div&gt;&lt;br&gt;&lt;div&gt;&lt;span style=&quot;color: #0000ff;&quot;&gt;class&lt;/span&gt;&lt;span style=&quot;color: #000000;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;color: #267f99;&quot;&gt;Ops&lt;/span&gt;&lt;span style=&quot;color: #000000;&quot;&gt;:&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: #000000;&quot;&gt;    &lt;/span&gt;&lt;span style=&quot;color: #0000ff;&quot;&gt;def&lt;/span&gt;&lt;span style=&quot;color: #000000;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;color: #795e26;&quot;&gt;__init__&lt;/span&gt;&lt;span style=&quot;color: #000000;&quot;&gt;(&lt;/span&gt;&lt;span style=&quot;color: #001080;&quot;&gt;self&lt;/span&gt;&lt;span style=&quot;color: #000000;&quot;&gt;, &lt;/span&gt;&lt;span style=&quot;color: #001080;&quot;&gt;os_administration&lt;/span&gt;&lt;span style=&quot;color: #000000;&quot;&gt;):&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: #000000;&quot;&gt;        &lt;/span&gt;&lt;span style=&quot;color: #001080;&quot;&gt;self&lt;/span&gt;&lt;span style=&quot;color: #000000;&quot;&gt;.&lt;/span&gt;&lt;span style=&quot;color: #001080;&quot;&gt;os_administration&lt;/span&gt;&lt;span style=&quot;color: #000000;&quot;&gt; = &lt;/span&gt;&lt;span style=&quot;color: #001080;&quot;&gt;os_administration&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="20" y="20" width="560" height="440" as="geometry" />
+        </mxCell>
+        <mxCell id="0CI_nFCLBrb8_V2Ou4aJ-2" value="&lt;div style=&quot;color: #000000;background-color: #ffffff;font-family: Menlo, Monaco, &#39;Courier New&#39;, monospace;font-weight: normal;font-size: 25px;line-height: 38px;white-space: pre;&quot;&gt;&lt;div&gt;&lt;span style=&quot;color: #0000ff;&quot;&gt;class&lt;/span&gt;&lt;span style=&quot;color: #000000;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;color: #267f99;&quot;&gt;DevOps&lt;/span&gt;&lt;span style=&quot;color: #000000;&quot;&gt;(&lt;/span&gt;&lt;span style=&quot;color: #267f99;&quot;&gt;Developer&lt;/span&gt;&lt;span style=&quot;color: #000000;&quot;&gt;, &lt;/span&gt;&lt;span style=&quot;color: #267f99;&quot;&gt;Tester&lt;/span&gt;&lt;span style=&quot;color: #000000;&quot;&gt;, &lt;/span&gt;&lt;span style=&quot;color: #267f99;&quot;&gt;Ops&lt;/span&gt;&lt;span style=&quot;color: #000000;&quot;&gt;):&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: #000000;&quot;&gt;    &lt;/span&gt;&lt;span style=&quot;color: #0000ff;&quot;&gt;def&lt;/span&gt;&lt;span style=&quot;color: #000000;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;color: #795e26;&quot;&gt;__init__&lt;/span&gt;&lt;span style=&quot;color: #000000;&quot;&gt;(&lt;/span&gt;&lt;span style=&quot;color: #001080;&quot;&gt;self&lt;/span&gt;&lt;span style=&quot;color: #000000;&quot;&gt;, &lt;/span&gt;&lt;span style=&quot;color: #001080;&quot;&gt;language&lt;/span&gt;&lt;span style=&quot;color: #000000;&quot;&gt;, &lt;/span&gt;&lt;span style=&quot;color: #001080;&quot;&gt;testing_type&lt;/span&gt;&lt;span style=&quot;color: #000000;&quot;&gt;, &lt;/span&gt;&lt;span style=&quot;color: #001080;&quot;&gt;os_administration&lt;/span&gt;&lt;span style=&quot;color: #000000;&quot;&gt;, &lt;/span&gt;&lt;span style=&quot;color: #001080;&quot;&gt;tools&lt;/span&gt;&lt;span style=&quot;color: #000000;&quot;&gt;):&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: #000000;&quot;&gt;        &lt;/span&gt;&lt;span style=&quot;color: #008000;&quot;&gt;# initialize all the parent classes&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: #000000;&quot;&gt;        &lt;/span&gt;&lt;span style=&quot;color: #267f99;&quot;&gt;Developer&lt;/span&gt;&lt;span style=&quot;color: #000000;&quot;&gt;.&lt;/span&gt;&lt;span style=&quot;color: #795e26;&quot;&gt;__init__&lt;/span&gt;&lt;span style=&quot;color: #000000;&quot;&gt;(&lt;/span&gt;&lt;span style=&quot;color: #001080;&quot;&gt;self&lt;/span&gt;&lt;span style=&quot;color: #000000;&quot;&gt;, &lt;/span&gt;&lt;span style=&quot;color: #001080;&quot;&gt;language&lt;/span&gt;&lt;span style=&quot;color: #000000;&quot;&gt;=&lt;/span&gt;&lt;span style=&quot;color: #001080;&quot;&gt;language&lt;/span&gt;&lt;span style=&quot;color: #000000;&quot;&gt;)&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: #000000;&quot;&gt;        &lt;/span&gt;&lt;span style=&quot;color: #267f99;&quot;&gt;Tester&lt;/span&gt;&lt;span style=&quot;color: #000000;&quot;&gt;.&lt;/span&gt;&lt;span style=&quot;color: #795e26;&quot;&gt;__init__&lt;/span&gt;&lt;span style=&quot;color: #000000;&quot;&gt;(&lt;/span&gt;&lt;span style=&quot;color: #001080;&quot;&gt;self&lt;/span&gt;&lt;span style=&quot;color: #000000;&quot;&gt;, &lt;/span&gt;&lt;span style=&quot;color: #001080;&quot;&gt;testing_type&lt;/span&gt;&lt;span style=&quot;color: #000000;&quot;&gt;=&lt;/span&gt;&lt;span style=&quot;color: #001080;&quot;&gt;testing_type&lt;/span&gt;&lt;span style=&quot;color: #000000;&quot;&gt;)&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: #000000;&quot;&gt;        &lt;/span&gt;&lt;span style=&quot;color: #267f99;&quot;&gt;Ops&lt;/span&gt;&lt;span style=&quot;color: #000000;&quot;&gt;.&lt;/span&gt;&lt;span style=&quot;color: #795e26;&quot;&gt;__init__&lt;/span&gt;&lt;span style=&quot;color: #000000;&quot;&gt;(&lt;/span&gt;&lt;span style=&quot;color: #001080;&quot;&gt;self&lt;/span&gt;&lt;span style=&quot;color: #000000;&quot;&gt;, &lt;/span&gt;&lt;span style=&quot;color: #001080;&quot;&gt;os_administration&lt;/span&gt;&lt;span style=&quot;color: #000000;&quot;&gt;=&lt;/span&gt;&lt;span style=&quot;color: #001080;&quot;&gt;os_administration&lt;/span&gt;&lt;span style=&quot;color: #000000;&quot;&gt;)&lt;/span&gt;&lt;/div&gt;&lt;br&gt;&lt;div&gt;&lt;span style=&quot;color: #000000;&quot;&gt;        &lt;/span&gt;&lt;span style=&quot;color: #008000;&quot;&gt;# initialize own members&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: #000000;&quot;&gt;        &lt;/span&gt;&lt;span style=&quot;color: #001080;&quot;&gt;self&lt;/span&gt;&lt;span style=&quot;color: #000000;&quot;&gt;.&lt;/span&gt;&lt;span style=&quot;color: #001080;&quot;&gt;tools&lt;/span&gt;&lt;span style=&quot;color: #000000;&quot;&gt; = &lt;/span&gt;&lt;span style=&quot;color: #001080;&quot;&gt;tools&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="20" y="480" width="1120" height="370" as="geometry" />
+        </mxCell>
+        <mxCell id="0CI_nFCLBrb8_V2Ou4aJ-3" value="&lt;div style=&quot;color: #000000;background-color: #ffffff;font-family: Menlo, Monaco, &#39;Courier New&#39;, monospace;font-weight: normal;font-size: 25px;line-height: 38px;white-space: pre;&quot;&gt;&lt;div&gt;&lt;span style=&quot;color: #001080;&quot;&gt;devops&lt;/span&gt;&lt;span style=&quot;color: #000000;&quot;&gt; = &lt;/span&gt;&lt;span style=&quot;color: #267f99;&quot;&gt;DevOps&lt;/span&gt;&lt;span style=&quot;color: #000000;&quot;&gt;(&lt;/span&gt;&lt;span style=&quot;color: #a31515;&quot;&gt;&#39;python&#39;&lt;/span&gt;&lt;span style=&quot;color: #000000;&quot;&gt;, &lt;/span&gt;&lt;span style=&quot;color: #a31515;&quot;&gt;&#39;automation&#39;&lt;/span&gt;&lt;span style=&quot;color: #000000;&quot;&gt;, &lt;/span&gt;&lt;span style=&quot;color: #a31515;&quot;&gt;&#39;linux&#39;&lt;/span&gt;&lt;span style=&quot;color: #000000;&quot;&gt;, &lt;/span&gt;&lt;span style=&quot;color: #a31515;&quot;&gt;&quot;terraform, docker, kubernetes&quot;&lt;/span&gt;&lt;span style=&quot;color: #000000;&quot;&gt;)&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="20" y="890" width="560" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rRq0wIXsnJSzM0OvmI75-1" value="0x11000" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontStyle=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="20" y="1042" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="rRq0wIXsnJSzM0OvmI75-2" value="0x10000" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="20" y="1012" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="rRq0wIXsnJSzM0OvmI75-3" value="devops&lt;div&gt;(reference)&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="20" y="1092" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="rRq0wIXsnJSzM0OvmI75-4" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontStyle=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="200" y="1040" width="790" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="rRq0wIXsnJSzM0OvmI75-5" value="0x11000" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="200" y="1010" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="rRq0wIXsnJSzM0OvmI75-6" value="Object of Developer class" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="220" y="1132" width="230" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="rRq0wIXsnJSzM0OvmI75-7" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;fontStyle=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="220" y="1055" width="230" height="75" as="geometry" />
+        </mxCell>
+        <mxCell id="rRq0wIXsnJSzM0OvmI75-9" value="language = &quot;python&quot;" style="rounded=0;whiteSpace=wrap;html=1;align=left;fontStyle=1;fontSize=15;spacingLeft=6;" vertex="1" parent="1">
+          <mxGeometry x="237.5" y="1072" width="195" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="rRq0wIXsnJSzM0OvmI75-10" value="Object of DevOps class" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="200" y="1230" width="270" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="rRq0wIXsnJSzM0OvmI75-11" value="tools = &quot;terraform, docker, kubernetes&quot;" style="rounded=0;whiteSpace=wrap;html=1;align=left;fontStyle=1;fontSize=15;spacingLeft=6;" vertex="1" parent="1">
+          <mxGeometry x="220" y="1180" width="760" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="rRq0wIXsnJSzM0OvmI75-13" value="Object of Tester class" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="465" y="1132" width="245" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="rRq0wIXsnJSzM0OvmI75-14" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;fontStyle=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="465" y="1055" width="245" height="75" as="geometry" />
+        </mxCell>
+        <mxCell id="rRq0wIXsnJSzM0OvmI75-16" value="testing_type = &quot;automation&quot;" style="rounded=0;whiteSpace=wrap;html=1;align=left;fontStyle=1;fontSize=15;spacingLeft=6;" vertex="1" parent="1">
+          <mxGeometry x="480" y="1072" width="210" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="rRq0wIXsnJSzM0OvmI75-17" value="Object of Ops class" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="730" y="1131" width="240" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="rRq0wIXsnJSzM0OvmI75-18" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;fontStyle=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="730" y="1054" width="245" height="75" as="geometry" />
+        </mxCell>
+        <mxCell id="rRq0wIXsnJSzM0OvmI75-19" value="os_administration = &quot;linux&quot;" style="rounded=0;whiteSpace=wrap;html=1;align=left;fontStyle=1;fontSize=15;spacingLeft=6;" vertex="1" parent="1">
+          <mxGeometry x="745" y="1071" width="210" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="rRq0wIXsnJSzM0OvmI75-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.001;entryY=0.142;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="rRq0wIXsnJSzM0OvmI75-1" target="rRq0wIXsnJSzM0OvmI75-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="P-vSwZCnEpHXNmntKs4w-1" value="Developer" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fontSize=17;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="30" y="1350" width="180" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="P-vSwZCnEpHXNmntKs4w-3" value="Tester" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fontSize=17;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="220" y="1350" width="180" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="P-vSwZCnEpHXNmntKs4w-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" edge="1" parent="1" source="P-vSwZCnEpHXNmntKs4w-5" target="P-vSwZCnEpHXNmntKs4w-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="P-vSwZCnEpHXNmntKs4w-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" edge="1" parent="1" source="P-vSwZCnEpHXNmntKs4w-5" target="P-vSwZCnEpHXNmntKs4w-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="P-vSwZCnEpHXNmntKs4w-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fillColor=#ffe6cc;strokeColor=#d79b00;" edge="1" parent="1" source="P-vSwZCnEpHXNmntKs4w-5" target="P-vSwZCnEpHXNmntKs4w-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="P-vSwZCnEpHXNmntKs4w-5" value="DevOps" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fontSize=17;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="220" y="1460" width="180" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="P-vSwZCnEpHXNmntKs4w-6" value="Ops" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fontSize=17;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="413.5" y="1350" width="180" height="50" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="rqdPqw3a9c4RpR2nQzaI" name="hierarchical inheritance">
+    <mxGraphModel dx="1242" dy="807" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="Tp3NyaMKKAwgoRzF70G5-1" value="&lt;div style=&quot;color: #000000;background-color: #ffffff;font-family: Menlo, Monaco, &#39;Courier New&#39;, monospace;font-weight: normal;font-size: 25px;line-height: 38px;white-space: pre;&quot;&gt;&lt;div&gt;&lt;span style=&quot;color: #0000ff;&quot;&gt;class&lt;/span&gt;&lt;span style=&quot;color: #000000;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;color: #267f99;&quot;&gt;Person&lt;/span&gt;&lt;span style=&quot;color: #000000;&quot;&gt;:&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: #000000;&quot;&gt;    &lt;/span&gt;&lt;span style=&quot;color: #0000ff;&quot;&gt;def&lt;/span&gt;&lt;span style=&quot;color: #000000;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;color: #795e26;&quot;&gt;__init__&lt;/span&gt;&lt;span style=&quot;color: #000000;&quot;&gt;(&lt;/span&gt;&lt;span style=&quot;color: #001080;&quot;&gt;self&lt;/span&gt;&lt;span style=&quot;color: #000000;&quot;&gt;, &lt;/span&gt;&lt;span style=&quot;color: #001080;&quot;&gt;name&lt;/span&gt;&lt;span style=&quot;color: #000000;&quot;&gt;):&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: #000000;&quot;&gt;        &lt;/span&gt;&lt;span style=&quot;color: #001080;&quot;&gt;self&lt;/span&gt;&lt;span style=&quot;color: #000000;&quot;&gt;.&lt;/span&gt;&lt;span style=&quot;color: #001080;&quot;&gt;name&lt;/span&gt;&lt;span style=&quot;color: #000000;&quot;&gt; = &lt;/span&gt;&lt;span style=&quot;color: #001080;&quot;&gt;name&lt;/span&gt;&lt;/div&gt;&lt;br&gt;&lt;div&gt;&lt;span style=&quot;color: #0000ff;&quot;&gt;class&lt;/span&gt;&lt;span style=&quot;color: #000000;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;color: #267f99;&quot;&gt;Employee&lt;/span&gt;&lt;span style=&quot;color: #000000;&quot;&gt;(&lt;/span&gt;&lt;span style=&quot;color: #267f99;&quot;&gt;Person&lt;/span&gt;&lt;span style=&quot;color: #000000;&quot;&gt;):&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: #000000;&quot;&gt;    &lt;/span&gt;&lt;span style=&quot;color: #0000ff;&quot;&gt;def&lt;/span&gt;&lt;span style=&quot;color: #000000;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;color: #795e26;&quot;&gt;__init__&lt;/span&gt;&lt;span style=&quot;color: #000000;&quot;&gt;(&lt;/span&gt;&lt;span style=&quot;color: #001080;&quot;&gt;self&lt;/span&gt;&lt;span style=&quot;color: #000000;&quot;&gt;, &lt;/span&gt;&lt;span style=&quot;color: #001080;&quot;&gt;name&lt;/span&gt;&lt;span style=&quot;color: #000000;&quot;&gt;, &lt;/span&gt;&lt;span style=&quot;color: #001080;&quot;&gt;emp_id&lt;/span&gt;&lt;span style=&quot;color: #000000;&quot;&gt;):&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: #000000;&quot;&gt;        &lt;/span&gt;&lt;span style=&quot;color: #267f99;&quot;&gt;super&lt;/span&gt;&lt;span style=&quot;color: #000000;&quot;&gt;().&lt;/span&gt;&lt;span style=&quot;color: #795e26;&quot;&gt;__init__&lt;/span&gt;&lt;span style=&quot;color: #000000;&quot;&gt;(&lt;/span&gt;&lt;span style=&quot;color: #001080;&quot;&gt;name&lt;/span&gt;&lt;span style=&quot;color: #000000;&quot;&gt;)&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: #000000;&quot;&gt;        &lt;/span&gt;&lt;span style=&quot;color: #001080;&quot;&gt;self&lt;/span&gt;&lt;span style=&quot;color: #000000;&quot;&gt;.&lt;/span&gt;&lt;span style=&quot;color: #001080;&quot;&gt;id&lt;/span&gt;&lt;span style=&quot;color: #000000;&quot;&gt; = &lt;/span&gt;&lt;span style=&quot;color: #001080;&quot;&gt;emp_id&lt;/span&gt;&lt;/div&gt;&lt;br&gt;&lt;div&gt;&lt;span style=&quot;color: #0000ff;&quot;&gt;class&lt;/span&gt;&lt;span style=&quot;color: #000000;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;color: #267f99;&quot;&gt;Student&lt;/span&gt;&lt;span style=&quot;color: #000000;&quot;&gt;(&lt;/span&gt;&lt;span style=&quot;color: #267f99;&quot;&gt;Person&lt;/span&gt;&lt;span style=&quot;color: #000000;&quot;&gt;):&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: #000000;&quot;&gt;    &lt;/span&gt;&lt;span style=&quot;color: #0000ff;&quot;&gt;def&lt;/span&gt;&lt;span style=&quot;color: #000000;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;color: #795e26;&quot;&gt;__init__&lt;/span&gt;&lt;span style=&quot;color: #000000;&quot;&gt;(&lt;/span&gt;&lt;span style=&quot;color: #001080;&quot;&gt;self&lt;/span&gt;&lt;span style=&quot;color: #000000;&quot;&gt;, &lt;/span&gt;&lt;span style=&quot;color: #001080;&quot;&gt;name&lt;/span&gt;&lt;span style=&quot;color: #000000;&quot;&gt;, &lt;/span&gt;&lt;span style=&quot;color: #001080;&quot;&gt;roll_no&lt;/span&gt;&lt;span style=&quot;color: #000000;&quot;&gt;):&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: #000000;&quot;&gt;        &lt;/span&gt;&lt;span style=&quot;color: #267f99;&quot;&gt;super&lt;/span&gt;&lt;span style=&quot;color: #000000;&quot;&gt;().&lt;/span&gt;&lt;span style=&quot;color: #795e26;&quot;&gt;__init__&lt;/span&gt;&lt;span style=&quot;color: #000000;&quot;&gt;(&lt;/span&gt;&lt;span style=&quot;color: #001080;&quot;&gt;name&lt;/span&gt;&lt;span style=&quot;color: #000000;&quot;&gt;)&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: #000000;&quot;&gt;        &lt;/span&gt;&lt;span style=&quot;color: #001080;&quot;&gt;self&lt;/span&gt;&lt;span style=&quot;color: #000000;&quot;&gt;.&lt;/span&gt;&lt;span style=&quot;color: #001080;&quot;&gt;roll_no&lt;/span&gt;&lt;span style=&quot;color: #000000;&quot;&gt; = &lt;/span&gt;&lt;span style=&quot;color: #001080;&quot;&gt;roll_no&lt;/span&gt;&lt;/div&gt;&lt;br&gt;&lt;div&gt;&lt;span style=&quot;color: #0000ff;&quot;&gt;class&lt;/span&gt;&lt;span style=&quot;color: #000000;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;color: #267f99;&quot;&gt;Player&lt;/span&gt;&lt;span style=&quot;color: #000000;&quot;&gt;(&lt;/span&gt;&lt;span style=&quot;color: #267f99;&quot;&gt;Person&lt;/span&gt;&lt;span style=&quot;color: #000000;&quot;&gt;):&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: #000000;&quot;&gt;    &lt;/span&gt;&lt;span style=&quot;color: #0000ff;&quot;&gt;def&lt;/span&gt;&lt;span style=&quot;color: #000000;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;color: #795e26;&quot;&gt;__init__&lt;/span&gt;&lt;span style=&quot;color: #000000;&quot;&gt;(&lt;/span&gt;&lt;span style=&quot;color: #001080;&quot;&gt;self&lt;/span&gt;&lt;span style=&quot;color: #000000;&quot;&gt;, &lt;/span&gt;&lt;span style=&quot;color: #001080;&quot;&gt;name&lt;/span&gt;&lt;span style=&quot;color: #000000;&quot;&gt;, &lt;/span&gt;&lt;span style=&quot;color: #001080;&quot;&gt;team_name&lt;/span&gt;&lt;span style=&quot;color: #000000;&quot;&gt;):&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: #000000;&quot;&gt;        &lt;/span&gt;&lt;span style=&quot;color: #267f99;&quot;&gt;super&lt;/span&gt;&lt;span style=&quot;color: #000000;&quot;&gt;().&lt;/span&gt;&lt;span style=&quot;color: #795e26;&quot;&gt;__init__&lt;/span&gt;&lt;span style=&quot;color: #000000;&quot;&gt;(&lt;/span&gt;&lt;span style=&quot;color: #001080;&quot;&gt;name&lt;/span&gt;&lt;span style=&quot;color: #000000;&quot;&gt;)&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: #000000;&quot;&gt;        &lt;/span&gt;&lt;span style=&quot;color: #001080;&quot;&gt;self&lt;/span&gt;&lt;span style=&quot;color: #000000;&quot;&gt;.&lt;/span&gt;&lt;span style=&quot;color: #001080;&quot;&gt;team_name&lt;/span&gt;&lt;span style=&quot;color: #000000;&quot;&gt; = &lt;/span&gt;&lt;span style=&quot;color: #001080;&quot;&gt;team_name&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="30" y="410" width="560" height="710" as="geometry" />
+        </mxCell>
+        <mxCell id="Tp3NyaMKKAwgoRzF70G5-2" value="&lt;div style=&quot;color: #000000;background-color: #ffffff;font-family: Menlo, Monaco, &#39;Courier New&#39;, monospace;font-weight: normal;font-size: 25px;line-height: 38px;white-space: pre;&quot;&gt;&lt;div&gt;&lt;span style=&quot;color: #001080;&quot;&gt;person&lt;/span&gt;&lt;span style=&quot;color: #000000;&quot;&gt; = &lt;/span&gt;&lt;span style=&quot;color: #267f99;&quot;&gt;Person&lt;/span&gt;&lt;span style=&quot;color: #000000;&quot;&gt;(&lt;/span&gt;&lt;span style=&quot;color: #a31515;&quot;&gt;&quot;person1&quot;&lt;/span&gt;&lt;span style=&quot;color: #000000;&quot;&gt;)&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="30" y="1150" width="420" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="6xK1o50ULiuvdBtoCAII-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="6xK1o50ULiuvdBtoCAII-1" target="6xK1o50ULiuvdBtoCAII-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6xK1o50ULiuvdBtoCAII-1" value="0x21000" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontStyle=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="30" y="1240" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="6xK1o50ULiuvdBtoCAII-2" value="0x20000" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="30" y="1210" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="6xK1o50ULiuvdBtoCAII-3" value="person&lt;div&gt;(reference)&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="30" y="1290" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="6xK1o50ULiuvdBtoCAII-4" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontStyle=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="190" y="1243" width="200" height="67" as="geometry" />
+        </mxCell>
+        <mxCell id="6xK1o50ULiuvdBtoCAII-5" value="0x21000" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="190" y="1213" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="6xK1o50ULiuvdBtoCAII-7" value="name = &quot;person1&quot;" style="rounded=0;whiteSpace=wrap;html=1;align=left;fontStyle=1;fontSize=15;spacingLeft=6;" vertex="1" parent="1">
+          <mxGeometry x="205" y="1263" width="165" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="6xK1o50ULiuvdBtoCAII-8" value="Object of Person class" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="190" y="1310" width="200" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="6xK1o50ULiuvdBtoCAII-11" value="&lt;div style=&quot;color: #000000;background-color: #ffffff;font-family: Menlo, Monaco, &#39;Courier New&#39;, monospace;font-weight: normal;font-size: 25px;line-height: 38px;white-space: pre;&quot;&gt;&lt;div&gt;&lt;span style=&quot;color: #001080;&quot;&gt;employee&lt;/span&gt;&lt;span style=&quot;color: #000000;&quot;&gt; = &lt;/span&gt;&lt;span style=&quot;color: #267f99;&quot;&gt;Employee&lt;/span&gt;&lt;span style=&quot;color: #000000;&quot;&gt;(&lt;/span&gt;&lt;span style=&quot;color: #a31515;&quot;&gt;&quot;employee1&quot;&lt;/span&gt;&lt;span style=&quot;color: #000000;&quot;&gt;, &lt;/span&gt;&lt;span style=&quot;color: #098658;&quot;&gt;1&lt;/span&gt;&lt;span style=&quot;color: #000000;&quot;&gt;)&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="470" y="1150" width="560" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8cxDmjzRJEliai2edKY5-1" value="0x11000" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontStyle=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="470" y="1245" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="8cxDmjzRJEliai2edKY5-2" value="0x10000" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="470" y="1215" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="8cxDmjzRJEliai2edKY5-3" value="employee&lt;div&gt;(reference)&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="470" y="1295" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="8cxDmjzRJEliai2edKY5-4" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontStyle=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="650" y="1243" width="270" height="187" as="geometry" />
+        </mxCell>
+        <mxCell id="8cxDmjzRJEliai2edKY5-5" value="0x11000" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="650" y="1213" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="8cxDmjzRJEliai2edKY5-6" value="Object of Person class" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="670" y="1335" width="230" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="8cxDmjzRJEliai2edKY5-7" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;fontStyle=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="670" y="1258" width="230" height="72" as="geometry" />
+        </mxCell>
+        <mxCell id="8cxDmjzRJEliai2edKY5-9" value="name = &quot;employee&quot;" style="rounded=0;whiteSpace=wrap;html=1;align=left;fontStyle=1;fontSize=15;spacingLeft=6;" vertex="1" parent="1">
+          <mxGeometry x="687.5" y="1275" width="195" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="8cxDmjzRJEliai2edKY5-10" value="Object of Employee class" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="650" y="1430" width="270" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="8cxDmjzRJEliai2edKY5-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.011;entryY=0.16;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="8cxDmjzRJEliai2edKY5-1" target="8cxDmjzRJEliai2edKY5-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8cxDmjzRJEliai2edKY5-12" value="&lt;div style=&quot;color: #000000;background-color: #ffffff;font-family: Menlo, Monaco, &#39;Courier New&#39;, monospace;font-weight: normal;font-size: 25px;line-height: 38px;white-space: pre;&quot;&gt;&lt;div&gt;&lt;span style=&quot;color: #001080;&quot;&gt;student&lt;/span&gt;&lt;span style=&quot;color: #000000;&quot;&gt; = &lt;/span&gt;&lt;span style=&quot;color: #267f99;&quot;&gt;Student&lt;/span&gt;&lt;span style=&quot;color: #000000;&quot;&gt;(&lt;/span&gt;&lt;span style=&quot;color: #a31515;&quot;&gt;&quot;student1&quot;&lt;/span&gt;&lt;span style=&quot;color: #000000;&quot;&gt;, &lt;/span&gt;&lt;span style=&quot;color: #098658;&quot;&gt;1&lt;/span&gt;&lt;span style=&quot;color: #000000;&quot;&gt;)&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: #001080;&quot;&gt;&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1050" y="1150" width="520" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8cxDmjzRJEliai2edKY5-23" value="id = 1" style="rounded=0;whiteSpace=wrap;html=1;align=left;fontStyle=1;fontSize=15;spacingLeft=6;" vertex="1" parent="1">
+          <mxGeometry x="670" y="1383.5" width="230" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="8cxDmjzRJEliai2edKY5-25" value="0x11000" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontStyle=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="1050" y="1258.5" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="8cxDmjzRJEliai2edKY5-26" value="0x10000" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="1050" y="1228.5" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="8cxDmjzRJEliai2edKY5-27" value="&lt;div&gt;student&lt;/div&gt;&lt;div&gt;(reference)&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="1050" y="1308.5" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="8cxDmjzRJEliai2edKY5-28" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontStyle=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="1230" y="1256.5" width="270" height="187" as="geometry" />
+        </mxCell>
+        <mxCell id="8cxDmjzRJEliai2edKY5-29" value="0x11000" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="1230" y="1226.5" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="8cxDmjzRJEliai2edKY5-30" value="Object of Person class" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="1250" y="1348.5" width="230" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="8cxDmjzRJEliai2edKY5-31" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;fontStyle=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="1250" y="1271.5" width="230" height="72" as="geometry" />
+        </mxCell>
+        <mxCell id="8cxDmjzRJEliai2edKY5-32" value="name = &quot;student1&quot;" style="rounded=0;whiteSpace=wrap;html=1;align=left;fontStyle=1;fontSize=15;spacingLeft=6;" vertex="1" parent="1">
+          <mxGeometry x="1267.5" y="1288.5" width="195" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="8cxDmjzRJEliai2edKY5-33" value="Object of Student class" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="1230" y="1443.5" width="270" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="8cxDmjzRJEliai2edKY5-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.011;entryY=0.16;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="8cxDmjzRJEliai2edKY5-25" target="8cxDmjzRJEliai2edKY5-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8cxDmjzRJEliai2edKY5-35" value="roll_no = 1" style="rounded=0;whiteSpace=wrap;html=1;align=left;fontStyle=1;fontSize=15;spacingLeft=6;" vertex="1" parent="1">
+          <mxGeometry x="1250" y="1397" width="230" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="8cxDmjzRJEliai2edKY5-36" value="&lt;div style=&quot;color: #000000;background-color: #ffffff;font-family: Menlo, Monaco, &#39;Courier New&#39;, monospace;font-weight: normal;font-size: 25px;line-height: 38px;white-space: pre;&quot;&gt;&lt;div&gt;&lt;span style=&quot;color: #001080;&quot;&gt;player&lt;/span&gt;&lt;span style=&quot;color: #000000;&quot;&gt; = &lt;/span&gt;&lt;span style=&quot;color: #267f99;&quot;&gt;Player&lt;/span&gt;&lt;span style=&quot;color: #000000;&quot;&gt;(&lt;/span&gt;&lt;span style=&quot;color: #a31515;&quot;&gt;&quot;player1&quot;&lt;/span&gt;&lt;span style=&quot;color: #000000;&quot;&gt;, &lt;/span&gt;&lt;span style=&quot;color: #a31515;&quot;&gt;&quot;team1&quot;&lt;/span&gt;&lt;span style=&quot;color: #000000;&quot;&gt;)&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1654" y="1150" width="560" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8cxDmjzRJEliai2edKY5-48" value="0x11000" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontStyle=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="1654" y="1258.5" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="8cxDmjzRJEliai2edKY5-49" value="0x10000" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="1654" y="1228.5" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="8cxDmjzRJEliai2edKY5-50" value="&lt;div&gt;player&lt;/div&gt;&lt;div&gt;(reference)&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="1654" y="1308.5" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="8cxDmjzRJEliai2edKY5-51" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontStyle=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="1834" y="1256.5" width="270" height="187" as="geometry" />
+        </mxCell>
+        <mxCell id="8cxDmjzRJEliai2edKY5-52" value="0x11000" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="1834" y="1226.5" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="8cxDmjzRJEliai2edKY5-53" value="Object of Person class" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="1854" y="1348.5" width="230" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="8cxDmjzRJEliai2edKY5-54" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;fontStyle=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="1854" y="1271.5" width="230" height="72" as="geometry" />
+        </mxCell>
+        <mxCell id="8cxDmjzRJEliai2edKY5-55" value="name = &quot;player1&quot;" style="rounded=0;whiteSpace=wrap;html=1;align=left;fontStyle=1;fontSize=15;spacingLeft=6;" vertex="1" parent="1">
+          <mxGeometry x="1871.5" y="1288.5" width="195" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="8cxDmjzRJEliai2edKY5-56" value="Object of Player class" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="1834" y="1443.5" width="270" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="8cxDmjzRJEliai2edKY5-57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.011;entryY=0.16;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="8cxDmjzRJEliai2edKY5-48" target="8cxDmjzRJEliai2edKY5-51">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8cxDmjzRJEliai2edKY5-58" value="team_name = &quot;team1&quot;" style="rounded=0;whiteSpace=wrap;html=1;align=left;fontStyle=1;fontSize=15;spacingLeft=6;" vertex="1" parent="1">
+          <mxGeometry x="1854" y="1397" width="230" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="RHs9FMjU1sl032ft0m-4-1" value="Person" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fontSize=17;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="150" y="1560" width="180" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="RHs9FMjU1sl032ft0m-4-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=1;entryDx=0;entryDy=0;fillColor=#ffe6cc;strokeColor=#d79b00;" edge="1" parent="1" source="RHs9FMjU1sl032ft0m-4-2" target="RHs9FMjU1sl032ft0m-4-1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="110" y="1640" />
+              <mxPoint x="195" y="1640" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RHs9FMjU1sl032ft0m-4-2" value="Employee" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fontSize=17;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="50" y="1670" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="RHs9FMjU1sl032ft0m-4-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fillColor=#ffe6cc;strokeColor=#d79b00;" edge="1" parent="1" source="RHs9FMjU1sl032ft0m-4-3" target="RHs9FMjU1sl032ft0m-4-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RHs9FMjU1sl032ft0m-4-3" value="Student" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fontSize=17;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="180" y="1670" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="RHs9FMjU1sl032ft0m-4-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=1;entryDx=0;entryDy=0;fillColor=#ffe6cc;strokeColor=#d79b00;" edge="1" parent="1" source="RHs9FMjU1sl032ft0m-4-4" target="RHs9FMjU1sl032ft0m-4-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RHs9FMjU1sl032ft0m-4-4" value="Player" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fontSize=17;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="310" y="1670" width="120" height="50" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="IptN563f2GEJvYa9fuTT" name="hybrid inheritance">
+    <mxGraphModel dx="1242" dy="807" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="NeR4wh0OCHsKr63c_ua--1" value="&lt;div style=&quot;color: #000000;background-color: #ffffff;font-family: Menlo, Monaco, &#39;Courier New&#39;, monospace;font-weight: normal;font-size: 25px;line-height: 38px;white-space: pre;&quot;&gt;&lt;div&gt;&lt;span style=&quot;color: #0000ff;&quot;&gt;class&lt;/span&gt;&lt;span style=&quot;color: #000000;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;color: #267f99;&quot;&gt;Person&lt;/span&gt;&lt;span style=&quot;color: #000000;&quot;&gt;:&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: #000000;&quot;&gt;    &lt;/span&gt;&lt;span style=&quot;color: #0000ff;&quot;&gt;def&lt;/span&gt;&lt;span style=&quot;color: #000000;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;color: #795e26;&quot;&gt;__init__&lt;/span&gt;&lt;span style=&quot;color: #000000;&quot;&gt;(&lt;/span&gt;&lt;span style=&quot;color: #001080;&quot;&gt;self&lt;/span&gt;&lt;span style=&quot;color: #000000;&quot;&gt;, &lt;/span&gt;&lt;span style=&quot;color: #001080;&quot;&gt;name&lt;/span&gt;&lt;span style=&quot;color: #000000;&quot;&gt;):&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: #000000;&quot;&gt;        &lt;/span&gt;&lt;span style=&quot;color: #001080;&quot;&gt;self&lt;/span&gt;&lt;span style=&quot;color: #000000;&quot;&gt;.&lt;/span&gt;&lt;span style=&quot;color: #001080;&quot;&gt;name&lt;/span&gt;&lt;span style=&quot;color: #000000;&quot;&gt; = &lt;/span&gt;&lt;span style=&quot;color: #001080;&quot;&gt;name&lt;/span&gt;&lt;/div&gt;&lt;br&gt;&lt;div&gt;&lt;span style=&quot;color: #0000ff;&quot;&gt;class&lt;/span&gt;&lt;span style=&quot;color: #000000;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;color: #267f99;&quot;&gt;Employee&lt;/span&gt;&lt;span style=&quot;color: #000000;&quot;&gt;(&lt;/span&gt;&lt;span style=&quot;color: #267f99;&quot;&gt;Person&lt;/span&gt;&lt;span style=&quot;color: #000000;&quot;&gt;):&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: #000000;&quot;&gt;    &lt;/span&gt;&lt;span style=&quot;color: #0000ff;&quot;&gt;def&lt;/span&gt;&lt;span style=&quot;color: #000000;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;color: #795e26;&quot;&gt;__init__&lt;/span&gt;&lt;span style=&quot;color: #000000;&quot;&gt;(&lt;/span&gt;&lt;span style=&quot;color: #001080;&quot;&gt;self&lt;/span&gt;&lt;span style=&quot;color: #000000;&quot;&gt;, &lt;/span&gt;&lt;span style=&quot;color: #001080;&quot;&gt;name&lt;/span&gt;&lt;span style=&quot;color: #000000;&quot;&gt;, &lt;/span&gt;&lt;span style=&quot;color: #001080;&quot;&gt;emp_id&lt;/span&gt;&lt;span style=&quot;color: #000000;&quot;&gt;):&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: #000000;&quot;&gt;        &lt;/span&gt;&lt;span style=&quot;color: #267f99;&quot;&gt;super&lt;/span&gt;&lt;span style=&quot;color: #000000;&quot;&gt;().&lt;/span&gt;&lt;span style=&quot;color: #795e26;&quot;&gt;__init__&lt;/span&gt;&lt;span style=&quot;color: #000000;&quot;&gt;(&lt;/span&gt;&lt;span style=&quot;color: #001080;&quot;&gt;name&lt;/span&gt;&lt;span style=&quot;color: #000000;&quot;&gt;)&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: #000000;&quot;&gt;        &lt;/span&gt;&lt;span style=&quot;color: #001080;&quot;&gt;self&lt;/span&gt;&lt;span style=&quot;color: #000000;&quot;&gt;.&lt;/span&gt;&lt;span style=&quot;color: #001080;&quot;&gt;id&lt;/span&gt;&lt;span style=&quot;color: #000000;&quot;&gt; = &lt;/span&gt;&lt;span style=&quot;color: #001080;&quot;&gt;emp_id&lt;/span&gt;&lt;/div&gt;&lt;br&gt;&lt;div&gt;&lt;span style=&quot;color: #0000ff;&quot;&gt;class&lt;/span&gt;&lt;span style=&quot;color: #000000;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;color: #267f99;&quot;&gt;Player&lt;/span&gt;&lt;span style=&quot;color: #000000;&quot;&gt;(&lt;/span&gt;&lt;span style=&quot;color: #267f99;&quot;&gt;Person&lt;/span&gt;&lt;span style=&quot;color: #000000;&quot;&gt;):&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: #000000;&quot;&gt;    &lt;/span&gt;&lt;span style=&quot;color: #0000ff;&quot;&gt;def&lt;/span&gt;&lt;span style=&quot;color: #000000;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;color: #795e26;&quot;&gt;__init__&lt;/span&gt;&lt;span style=&quot;color: #000000;&quot;&gt;(&lt;/span&gt;&lt;span style=&quot;color: #001080;&quot;&gt;self&lt;/span&gt;&lt;span style=&quot;color: #000000;&quot;&gt;, &lt;/span&gt;&lt;span style=&quot;color: #001080;&quot;&gt;name&lt;/span&gt;&lt;span style=&quot;color: #000000;&quot;&gt;, &lt;/span&gt;&lt;span style=&quot;color: #001080;&quot;&gt;team_name&lt;/span&gt;&lt;span style=&quot;color: #000000;&quot;&gt;):&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: #000000;&quot;&gt;        &lt;/span&gt;&lt;span style=&quot;color: #267f99;&quot;&gt;super&lt;/span&gt;&lt;span style=&quot;color: #000000;&quot;&gt;().&lt;/span&gt;&lt;span style=&quot;color: #795e26;&quot;&gt;__init__&lt;/span&gt;&lt;span style=&quot;color: #000000;&quot;&gt;(&lt;/span&gt;&lt;span style=&quot;color: #001080;&quot;&gt;name&lt;/span&gt;&lt;span style=&quot;color: #000000;&quot;&gt;)&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: #000000;&quot;&gt;        &lt;/span&gt;&lt;span style=&quot;color: #001080;&quot;&gt;self&lt;/span&gt;&lt;span style=&quot;color: #000000;&quot;&gt;.&lt;/span&gt;&lt;span style=&quot;color: #001080;&quot;&gt;team_name&lt;/span&gt;&lt;span style=&quot;color: #000000;&quot;&gt; = &lt;/span&gt;&lt;span style=&quot;color: #001080;&quot;&gt;team_name&lt;/span&gt;&lt;/div&gt;&lt;br&gt;&lt;div&gt;&lt;span style=&quot;color: #0000ff;&quot;&gt;class&lt;/span&gt;&lt;span style=&quot;color: #000000;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;color: #267f99;&quot;&gt;Manager&lt;/span&gt;&lt;span style=&quot;color: #000000;&quot;&gt;(&lt;/span&gt;&lt;span style=&quot;color: #267f99;&quot;&gt;Employee&lt;/span&gt;&lt;span style=&quot;color: #000000;&quot;&gt;):&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: #000000;&quot;&gt;    &lt;/span&gt;&lt;span style=&quot;color: #0000ff;&quot;&gt;def&lt;/span&gt;&lt;span style=&quot;color: #000000;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;color: #795e26;&quot;&gt;__init__&lt;/span&gt;&lt;span style=&quot;color: #000000;&quot;&gt;(&lt;/span&gt;&lt;span style=&quot;color: #001080;&quot;&gt;self&lt;/span&gt;&lt;span style=&quot;color: #000000;&quot;&gt;, &lt;/span&gt;&lt;span style=&quot;color: #001080;&quot;&gt;name&lt;/span&gt;&lt;span style=&quot;color: #000000;&quot;&gt;, &lt;/span&gt;&lt;span style=&quot;color: #001080;&quot;&gt;emp_id&lt;/span&gt;&lt;span style=&quot;color: #000000;&quot;&gt;, &lt;/span&gt;&lt;span style=&quot;color: #001080;&quot;&gt;department_id&lt;/span&gt;&lt;span style=&quot;color: #000000;&quot;&gt;):&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: #000000;&quot;&gt;        &lt;/span&gt;&lt;span style=&quot;color: #267f99;&quot;&gt;super&lt;/span&gt;&lt;span style=&quot;color: #000000;&quot;&gt;().&lt;/span&gt;&lt;span style=&quot;color: #795e26;&quot;&gt;__init__&lt;/span&gt;&lt;span style=&quot;color: #000000;&quot;&gt;(&lt;/span&gt;&lt;span style=&quot;color: #001080;&quot;&gt;name&lt;/span&gt;&lt;span style=&quot;color: #000000;&quot;&gt;, &lt;/span&gt;&lt;span style=&quot;color: #001080;&quot;&gt;emp_id&lt;/span&gt;&lt;span style=&quot;color: #000000;&quot;&gt;)&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: #000000;&quot;&gt;        &lt;/span&gt;&lt;span style=&quot;color: #001080;&quot;&gt;self&lt;/span&gt;&lt;span style=&quot;color: #000000;&quot;&gt;.&lt;/span&gt;&lt;span style=&quot;color: #001080;&quot;&gt;department_id&lt;/span&gt;&lt;span style=&quot;color: #000000;&quot;&gt; = &lt;/span&gt;&lt;span style=&quot;color: #001080;&quot;&gt;department_id&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="10" y="10" width="560" height="710" as="geometry" />
+        </mxCell>
+        <mxCell id="IVQZ_ujqGqTpb1ODYyz8-1" value="Person" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fontSize=17;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="140" y="1180" width="180" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="IVQZ_ujqGqTpb1ODYyz8-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=1;entryDx=0;entryDy=0;fillColor=#ffe6cc;strokeColor=#d79b00;" edge="1" parent="1" source="IVQZ_ujqGqTpb1ODYyz8-3" target="IVQZ_ujqGqTpb1ODYyz8-1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="100" y="1260" />
+              <mxPoint x="185" y="1260" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IVQZ_ujqGqTpb1ODYyz8-3" value="Employee" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fontSize=17;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="40" y="1290" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="IVQZ_ujqGqTpb1ODYyz8-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=1;entryDx=0;entryDy=0;fillColor=#ffe6cc;strokeColor=#d79b00;" edge="1" parent="1" source="IVQZ_ujqGqTpb1ODYyz8-7" target="IVQZ_ujqGqTpb1ODYyz8-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IVQZ_ujqGqTpb1ODYyz8-7" value="Player" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fontSize=17;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="300" y="1290" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="IVQZ_ujqGqTpb1ODYyz8-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fillColor=#ffe6cc;strokeColor=#d79b00;" edge="1" parent="1" source="IVQZ_ujqGqTpb1ODYyz8-8" target="IVQZ_ujqGqTpb1ODYyz8-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IVQZ_ujqGqTpb1ODYyz8-8" value="Manager" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fontSize=17;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="40" y="1380" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="p5UmjgVb5303Lo0xnp20-1" value="&lt;div style=&quot;color: #000000;background-color: #ffffff;font-family: Menlo, Monaco, &#39;Courier New&#39;, monospace;font-weight: normal;font-size: 25px;line-height: 38px;white-space: pre;&quot;&gt;&lt;div&gt;&lt;span style=&quot;color: #001080;&quot;&gt;person&lt;/span&gt;&lt;span style=&quot;color: #000000;&quot;&gt; = &lt;/span&gt;&lt;span style=&quot;color: #267f99;&quot;&gt;Person&lt;/span&gt;&lt;span style=&quot;color: #000000;&quot;&gt;(&lt;/span&gt;&lt;span style=&quot;color: #a31515;&quot;&gt;&quot;person1&quot;&lt;/span&gt;&lt;span style=&quot;color: #000000;&quot;&gt;)&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="760" width="420" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="p5UmjgVb5303Lo0xnp20-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="p5UmjgVb5303Lo0xnp20-3" target="p5UmjgVb5303Lo0xnp20-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="p5UmjgVb5303Lo0xnp20-3" value="0x21000" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontStyle=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="40" y="850" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="p5UmjgVb5303Lo0xnp20-4" value="0x20000" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="40" y="820" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="p5UmjgVb5303Lo0xnp20-5" value="person&lt;div&gt;(reference)&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="40" y="900" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="p5UmjgVb5303Lo0xnp20-6" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontStyle=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="200" y="853" width="200" height="67" as="geometry" />
+        </mxCell>
+        <mxCell id="p5UmjgVb5303Lo0xnp20-7" value="0x21000" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="200" y="823" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="p5UmjgVb5303Lo0xnp20-8" value="name = &quot;person1&quot;" style="rounded=0;whiteSpace=wrap;html=1;align=left;fontStyle=1;fontSize=15;spacingLeft=6;" vertex="1" parent="1">
+          <mxGeometry x="215" y="873" width="165" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="p5UmjgVb5303Lo0xnp20-9" value="Object of Person class" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="200" y="920" width="200" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="p5UmjgVb5303Lo0xnp20-10" value="&lt;div style=&quot;color: #000000;background-color: #ffffff;font-family: Menlo, Monaco, &#39;Courier New&#39;, monospace;font-weight: normal;font-size: 25px;line-height: 38px;white-space: pre;&quot;&gt;&lt;div&gt;&lt;span style=&quot;color: #001080;&quot;&gt;employee&lt;/span&gt;&lt;span style=&quot;color: #000000;&quot;&gt; = &lt;/span&gt;&lt;span style=&quot;color: #267f99;&quot;&gt;Employee&lt;/span&gt;&lt;span style=&quot;color: #000000;&quot;&gt;(&lt;/span&gt;&lt;span style=&quot;color: #a31515;&quot;&gt;&quot;employee1&quot;&lt;/span&gt;&lt;span style=&quot;color: #000000;&quot;&gt;, &lt;/span&gt;&lt;span style=&quot;color: #098658;&quot;&gt;1&lt;/span&gt;&lt;span style=&quot;color: #000000;&quot;&gt;)&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="480" y="760" width="560" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="p5UmjgVb5303Lo0xnp20-11" value="0x11000" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontStyle=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="480" y="855" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="p5UmjgVb5303Lo0xnp20-12" value="0x10000" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="480" y="825" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="p5UmjgVb5303Lo0xnp20-13" value="employee&lt;div&gt;(reference)&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="480" y="905" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="p5UmjgVb5303Lo0xnp20-14" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontStyle=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="660" y="853" width="270" height="187" as="geometry" />
+        </mxCell>
+        <mxCell id="p5UmjgVb5303Lo0xnp20-15" value="0x11000" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="660" y="823" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="p5UmjgVb5303Lo0xnp20-16" value="Object of Person class" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="680" y="945" width="230" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="p5UmjgVb5303Lo0xnp20-17" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;fontStyle=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="680" y="868" width="230" height="72" as="geometry" />
+        </mxCell>
+        <mxCell id="p5UmjgVb5303Lo0xnp20-18" value="name = &quot;employee&quot;" style="rounded=0;whiteSpace=wrap;html=1;align=left;fontStyle=1;fontSize=15;spacingLeft=6;" vertex="1" parent="1">
+          <mxGeometry x="697.5" y="885" width="195" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="p5UmjgVb5303Lo0xnp20-19" value="Object of Employee class" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="660" y="1040" width="270" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="p5UmjgVb5303Lo0xnp20-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.011;entryY=0.16;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="p5UmjgVb5303Lo0xnp20-11" target="p5UmjgVb5303Lo0xnp20-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="p5UmjgVb5303Lo0xnp20-21" value="id = 1" style="rounded=0;whiteSpace=wrap;html=1;align=left;fontStyle=1;fontSize=15;spacingLeft=6;" vertex="1" parent="1">
+          <mxGeometry x="680" y="993.5" width="230" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="EFJ2K2OwW469RStfLkQw-1" value="&lt;div style=&quot;color: #000000;background-color: #ffffff;font-family: Menlo, Monaco, &#39;Courier New&#39;, monospace;font-weight: normal;font-size: 25px;line-height: 38px;white-space: pre;&quot;&gt;&lt;div&gt;&lt;span style=&quot;color: #001080;&quot;&gt;player&lt;/span&gt;&lt;span style=&quot;color: #000000;&quot;&gt; = &lt;/span&gt;&lt;span style=&quot;color: #267f99;&quot;&gt;Player&lt;/span&gt;&lt;span style=&quot;color: #000000;&quot;&gt;(&lt;/span&gt;&lt;span style=&quot;color: #a31515;&quot;&gt;&quot;player1&quot;&lt;/span&gt;&lt;span style=&quot;color: #000000;&quot;&gt;, &lt;/span&gt;&lt;span style=&quot;color: #a31515;&quot;&gt;&quot;team1&quot;&lt;/span&gt;&lt;span style=&quot;color: #000000;&quot;&gt;)&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1070" y="763.25" width="560" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="EFJ2K2OwW469RStfLkQw-2" value="0x11000" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontStyle=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="1070" y="871.75" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="EFJ2K2OwW469RStfLkQw-3" value="0x10000" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="1070" y="841.75" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="EFJ2K2OwW469RStfLkQw-4" value="&lt;div&gt;player&lt;/div&gt;&lt;div&gt;(reference)&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="1070" y="921.75" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="EFJ2K2OwW469RStfLkQw-5" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontStyle=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="1250" y="869.75" width="270" height="187" as="geometry" />
+        </mxCell>
+        <mxCell id="EFJ2K2OwW469RStfLkQw-6" value="0x11000" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="1250" y="839.75" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="EFJ2K2OwW469RStfLkQw-7" value="Object of Person class" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="1270" y="961.75" width="230" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="EFJ2K2OwW469RStfLkQw-8" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;fontStyle=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="1270" y="884.75" width="230" height="72" as="geometry" />
+        </mxCell>
+        <mxCell id="EFJ2K2OwW469RStfLkQw-9" value="name = &quot;player1&quot;" style="rounded=0;whiteSpace=wrap;html=1;align=left;fontStyle=1;fontSize=15;spacingLeft=6;" vertex="1" parent="1">
+          <mxGeometry x="1287.5" y="901.75" width="195" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="EFJ2K2OwW469RStfLkQw-10" value="Object of Player class" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="1250" y="1056.75" width="270" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="EFJ2K2OwW469RStfLkQw-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.011;entryY=0.16;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="EFJ2K2OwW469RStfLkQw-2" target="EFJ2K2OwW469RStfLkQw-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EFJ2K2OwW469RStfLkQw-12" value="team_name = &quot;team1&quot;" style="rounded=0;whiteSpace=wrap;html=1;align=left;fontStyle=1;fontSize=15;spacingLeft=6;" vertex="1" parent="1">
+          <mxGeometry x="1270" y="1010.25" width="230" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="NmigdqaaWt7tmiLjlJPH-1" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontStyle=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="1840" y="909.75" width="310" height="290.25" as="geometry" />
+        </mxCell>
+        <mxCell id="NmigdqaaWt7tmiLjlJPH-2" value="&lt;div style=&quot;color: #000000;background-color: #ffffff;font-family: Menlo, Monaco, &#39;Courier New&#39;, monospace;font-weight: normal;font-size: 25px;line-height: 38px;white-space: pre;&quot;&gt;&lt;div&gt;&lt;span style=&quot;color: #001080;&quot;&gt;manager&lt;/span&gt;&lt;span style=&quot;color: #000000;&quot;&gt; = &lt;/span&gt;&lt;span style=&quot;color: #267f99;&quot;&gt;Manager&lt;/span&gt;&lt;span style=&quot;color: #000000;&quot;&gt;(&lt;/span&gt;&lt;span style=&quot;color: #a31515;&quot;&gt;&quot;manager1&quot;&lt;/span&gt;&lt;span style=&quot;color: #000000;&quot;&gt;, 1, &lt;/span&gt;&lt;span style=&quot;color: #a31515;&quot;&gt;&quot;HR&quot;&lt;/span&gt;&lt;span style=&quot;color: #000000;&quot;&gt;)&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1660" y="763.25" width="560" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NmigdqaaWt7tmiLjlJPH-3" value="0x11000" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontStyle=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="1660" y="908.25" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="NmigdqaaWt7tmiLjlJPH-4" value="0x10000" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="1660" y="878.25" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="NmigdqaaWt7tmiLjlJPH-5" value="manager&lt;div&gt;(reference)&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="1660" y="958.25" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="NmigdqaaWt7tmiLjlJPH-6" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontStyle=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="1860" y="926.25" width="270" height="183.75" as="geometry" />
+        </mxCell>
+        <mxCell id="NmigdqaaWt7tmiLjlJPH-7" value="0x11000" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="1840" y="876.25" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="NmigdqaaWt7tmiLjlJPH-8" value="Object of Person class" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="1881.25" y="1014.75" width="230" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="NmigdqaaWt7tmiLjlJPH-9" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;fontStyle=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="1880" y="941.25" width="230" height="68.75" as="geometry" />
+        </mxCell>
+        <mxCell id="NmigdqaaWt7tmiLjlJPH-11" value="name = &quot;employee1&quot;" style="rounded=0;whiteSpace=wrap;html=1;align=left;fontStyle=1;fontSize=15;spacingLeft=6;" vertex="1" parent="1">
+          <mxGeometry x="1897.5" y="958.25" width="195" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="NmigdqaaWt7tmiLjlJPH-12" value="Object of Employee class" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="1860" y="1110" width="270" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="NmigdqaaWt7tmiLjlJPH-13" value="emp_id = 1" style="rounded=0;whiteSpace=wrap;html=1;align=left;fontStyle=1;fontSize=15;spacingLeft=6;" vertex="1" parent="1">
+          <mxGeometry x="1881.25" y="1060" width="230" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="NmigdqaaWt7tmiLjlJPH-14" value="department_id = &quot;HR&quot;" style="rounded=0;whiteSpace=wrap;html=1;align=left;fontStyle=1;fontSize=15;spacingLeft=6;" vertex="1" parent="1">
+          <mxGeometry x="1862.5" y="1150" width="267.5" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="NmigdqaaWt7tmiLjlJPH-15" value="Object of Manager class" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="1840" y="1210" width="310" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="NmigdqaaWt7tmiLjlJPH-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.013;entryY=0.073;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="NmigdqaaWt7tmiLjlJPH-3" target="NmigdqaaWt7tmiLjlJPH-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
