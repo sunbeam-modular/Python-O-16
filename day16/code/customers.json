@@ -1,0 +1,24 @@
+[
+    {
+        "account_no": 1,
+        "name": "amit",
+        "address": "pune",
+        "phone": "1233444",
+        "email": "amit@test.com",
+        "balance": 14000,
+        "transactions": [
+            {
+                "type": "deposit",
+                "amount": 5000,
+                "balance_before_update": 10000,
+                "balance_after_update": 15000
+            },
+            {
+                "type": "withdrwal",
+                "amount": 1000,
+                "balance_before_update": 15000,
+                "balance_after_update": 14000
+            }
+        ]
+    }
+]
