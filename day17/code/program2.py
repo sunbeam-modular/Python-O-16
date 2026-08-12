@@ -108,6 +108,8 @@ def function3():
 
     # find multiple rows along with selected columns (RnD)
     # print(df.iloc[0:5, 0])
+
+    # update any value using row and column position
     # df.iloc[0, 0] = "new value"
 
     # find multiple rows along with selected columns (RnD, Administration)
@@ -117,7 +119,7 @@ def function3():
 
 def function4():
     # read data from a csv file
-    df = pd.read_csv('./50_startups.csv')
+    df = pd.read_csv('50_startups.csv')
 
     # find the startups from California state
     # print(df.query("State == 'California'"))
