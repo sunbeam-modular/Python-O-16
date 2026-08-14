@@ -1,0 +1,11 @@
+day,date,temp_low,temp_high,condition,precipitation
+TODAY,8/14,22,28,"A little afternoon rain,Night: Cloudy with a shower late",82
+SAT,8/15,22,25,"Occasional morning rain,Some rain and a t-storm late",83
+SUN,8/16,22,26,"Occasional rain,Some rain and a t-storm late",56
+MON,8/17,23,27,"A bit of rain in the morning,Cloudy with a stray t-storm",68
+TUE,8/18,23,27,"Cloudy with a touch of rain,Cloudy with a shower late",55
+WED,8/19,24,28,"Cloudy with a bit of rain,A stray t-storm early; cloudy",55
+THU,8/20,26,29,"Mostly cloudy, a little rain,Cloudy and warm",55
+FRI,8/21,26,28,"Overcast with a shower or two,Cloudy and warm",55
+SAT,8/22,26,29,"A little morning rain,Cloudy, warm; a shower late",55
+SUN,8/23,21,28,"A morning shower; cloudy,Cloudy",55
